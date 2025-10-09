@@ -6,3 +6,4 @@ El combate con el [[Minotauro]] deja a todos exhaustos, y el **jefe bandido**, a
 Después de la pelea, el jefe puede tener una **charla tensa pero sincera** con los jugadores:
 
 > “Ustedes no entienden… nosotros no robamos por placer. El gremio de mercaderes nos dejó sin trabajo hace meses. Si los chicos no robaban, no comían.”
+
