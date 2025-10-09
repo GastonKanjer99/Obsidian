@@ -1,10 +1,10 @@
 {
   "pluginList": [
-    "hay-kot/obsidian-dnd-ui-toolkit"
+    "javalent/calendarium"
   ],
   "pluginSubListFrozenVersion": [
     {
-      "repo": "hay-kot/obsidian-dnd-ui-toolkit",
+      "repo": "javalent/calendarium",
       "version": "latest"
     }
   ],
