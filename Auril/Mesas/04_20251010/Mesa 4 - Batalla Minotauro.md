@@ -7,3 +7,5 @@ Después de la pelea, el jefe tiene una **charla tensa pero sincera** con los ju
 
 > “Ustedes no entienden… nosotros no robamos por placer. El gremio de mercaderes nos dejó sin trabajo hace meses. Si los chicos no robaban, no comían.”
 
+Luego de decidir que hacer con él, llega la guardia alertada por el estruendo.  
+Encuentran a los jugadores rodeados de cadáveres, bandidos rendidos y un monstruo muerto… pero no saben qué pasó realmente.
