@@ -1,3 +1,6 @@
+
+## Batalla Minotauro
+
 Luego de haber capturado
 El combate con el [[Minotauro]] deja a todos exhaustos, y el **jefe bandido**, al ver que los jugadores pelean con todo, decide unir fuerzas por supervivencia.
 
@@ -18,7 +21,8 @@ Esto puede llevar a una **escena judicial o política**:
     
 - Si tienen éxito, la ciudad podría ofrecer trabajo o refugio a los niños, lo que convierte a los jugadores en héroes locales.
 
-
+## Inicio Dungeon
 
 Luego de resolver esto, los jugadores notan una corriente de aire cálido con olor a moho o metal.
-Si se acercan al lugar de donde salio el minotauro notas **una grieta enorme  y más aun corredor recién abierto** que baja más.
+Si se acercan al lugar de donde salio el minotauro notas **una grieta enorme  y más allá un corredor recién abierto** que baja más.
+Un aire viciado y profundo emana del hueco, acompañado de un murmullo distante… 
