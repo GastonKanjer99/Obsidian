@@ -20,4 +20,5 @@ Esto puede llevar a una **escena judicial o política**:
 
 
 
-Luego de resolver esto, los jugadores notan una corriente de aire cálido con olor a moho o metal, insinuando profundidad.
+Luego de resolver esto, los jugadores notan una corriente de aire cálido con olor a moho o metal.
+Si se acercan al lugar de donde salio el minotauro notas **una grieta enorme  y más aun corredor recién abierto** que baja más.

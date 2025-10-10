@@ -1,0 +1,1 @@
+Se construyó sobre ruinas mucho más viejas. Lo que los jugadores pensaban que eran simples túneles de contrabandistas son, en realidad, los restos de un santuario o fortaleza olvidada.
