@@ -21,6 +21,9 @@ Piensala como un mini arco, dividido en capas o “niveles”:
 **Objetivo:** Explorar los túneles, descubrir su origen, sobrevivir a las trampas y abrir el portón que lleva más abajo.  
 **Ambiente:** Ruinas semicolapsadas, pasillos estrechos, agua rezumando desde las paredes, eco constante.
 
+
+![[Dungeon_Ceding_Nivel_1.jpg]]
+
 ##### Secciones principales
 1. Entrada derrumbada (zona segura inicial)
 	- Grietas y piedras caídas.
