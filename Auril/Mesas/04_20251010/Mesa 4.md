@@ -25,4 +25,6 @@ Esto puede llevar a una **escena judicial o política**:
 
 Luego de resolver esto, los jugadores notan una corriente de aire cálido con olor a moho o metal.
 Si se acercan al lugar de donde salio el minotauro notas **una grieta enorme  y más allá un corredor recién abierto** que baja más.
+Si inspeccionan la zona, pueden notar que **estas estructuras no fueron construidas por los bandidos**: las piedras están talladas con símbolos antiguos (quizás de una civilización anterior a Lutharis).  
+Unas pocas antorchas sobreviven, iluminando inscripciones casi borradas.
 Un aire viciado y profundo emana del hueco, acompañado de un murmullo distante… 
