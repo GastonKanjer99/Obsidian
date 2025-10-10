@@ -18,4 +18,6 @@ Esto puede llevar a una **escena judicial o política**:
     
 - Si tienen éxito, la ciudad podría ofrecer trabajo o refugio a los niños, lo que convierte a los jugadores en héroes locales.
 
-Luego de resolver esto, los jugadores
+
+
+Luego de resolver esto, los jugadores notan una corriente de aire cálido con olor a moho o metal, insinuando profundidad.
