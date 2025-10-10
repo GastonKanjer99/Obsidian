@@ -34,7 +34,25 @@ Piensala como un mini arco, dividido en capas o “niveles”:
 	- Aquí hay **dos esqueletos animados (CR ¼)** y una **rata gigante (CR ⅛)**.
 	- Entre los escombros hay cajas viejas con mercancía robada mezclada con objetos antiguos.
 	- En una mesa de piedra, un esqueleto con ropas de acólito sostiene un **fragmento de tablilla** que brilla débilmente (pieza 1 de 3 para abrir el portón al siguiente nivel).
-	- 
+4. Cámara del Sello
+	- Sala circular con un gran portón sellado de piedra en el centro.
+	- En tres nichos hay **estatuas mutiladas de minotauros**, cada una con una tablilla, salvo a una que le falta.
+	- Al colocar la tablilla encontrada, el portón emite un temblor leve… y un **espectro antiguo (CR 1)** aparece, gritando en una lengua olvidada.
+		- Puede intentar poseer a un jugador o luchar hasta que se le dé “paz”.
+	-  Tras vencerlo, el portón se abre parcialmente, revelando una escalera descendente envuelta en niebla.
+
+Cuando coloquen la tablilla y derroten al espectro:
+
+> El suelo tiembla. Polvo cae del techo.  
+> El gran portón de piedra se abre apenas unos centímetros, dejando escapar un aire antiguo que huele a hierro y ceniza.  
+> En la oscuridad, se escucha un pulso sordo… como un latido.  
+> La escalera desciende, y la luz de sus antorchas no alcanza el final.
+
+#### Recompensas
+- **50 po en mercancía recuperable.** 
+- **Fragmento de tablilla** (artefacto clave para avanzar).
+- **Pergamino antiguo** con un hechizo de utilidad (Detectar Magia o Luz).
+- **Daga con símbolo del Círculo** (sin valor mágico aún, pero con importancia narrativa).
 ### Nivel 2 – La Cripta del Guardián
 
 - Arquitectura más elaborada, con símbolos arcanos.
