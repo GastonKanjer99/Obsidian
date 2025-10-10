@@ -15,7 +15,21 @@ Piensala como un mini arco, dividido en capas o “niveles”:
 - Objetivo: encontrar una forma de abrir un portón bloqueado o descifrar quién construyó el lugar.
     
 - Recompensa: mapas, símbolos antiguos o un talismán.
+#### **Estructura general del nivel**
 
+**Duración estimada:** 1 sesión (2–3 horas de juego)  
+**Objetivo:** Explorar los túneles, descubrir su origen, sobrevivir a las trampas y abrir el portón que lleva más abajo.  
+**Ambiente:** Ruinas semicolapsadas, pasillos estrechos, agua rezumando desde las paredes, eco constante.
+
+##### Secciones principales
+1. Entrada derrumbada (zona segura inicial)
+	- Grietas y piedras caídas.
+	- Si los jugadores investigan, pueden encontrar **una inscripción rota**:
+		“Aquí se encadenó al Guardián, por mandato del Círculo…”
+	- También hay marcas de garras antiguas en las paredes: no son del minotauro.
+2. Pasillo del Eco (trampa ambiental)
+	- Un túnel largo con el suelo húmedo. Si no van con cuidado, una sección colapsa: tirada de Destreza **DC 13** para evitar caer en un pozo de 3 m (1d6 daño).
+	- En el fondo del pozo: huesos humanos y una daga vieja con un símbolo extraño (puede ser una pista del antiguo culto).
 ### Nivel 2 – La Cripta del Guardián
 
 - Arquitectura más elaborada, con símbolos arcanos.
@@ -36,3 +50,4 @@ Piensala como un mini arco, dividido en capas o “niveles”:
 - Ahí habita un **enemigo mayor o entidad vinculada a la anomalía** (un espectro antiguo, un sacerdote loco, o un elemental corrupto).
     
 - Objetivo: sellar el artefacto, destruirlo, o tomarlo — cada opción puede tener consecuencias a futuro.
+ 
