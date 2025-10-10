@@ -4,7 +4,7 @@ Se construyó sobre ruinas mucho más viejas. Lo que los jugadores pensaban que 
 ## Estructura de la dungeon (para 2–3 sesiones)
 
 Piensala como un mini arco, dividido en capas o “niveles”:
-### 🕯️ Nivel 1 – Los Restos del Laberinto
+###  Nivel 1 – Los Restos del Laberinto
 
 - Ambiente húmedo y parcialmente colapsado.
     
@@ -30,6 +30,11 @@ Piensala como un mini arco, dividido en capas o “niveles”:
 2. Pasillo del Eco (trampa ambiental)
 	- Un túnel largo con el suelo húmedo. Si no van con cuidado, una sección colapsa: tirada de Destreza **DC 13** para evitar caer en un pozo de 3 m (1d6 daño).
 	- En el fondo del pozo: huesos humanos y una daga vieja con un símbolo extraño (puede ser una pista del antiguo culto).
+3. Sala de los Restos
+	- Aquí hay **dos esqueletos animados (CR ¼)** y una **rata gigante (CR ⅛)**.
+	- Entre los escombros hay cajas viejas con mercancía robada mezclada con objetos antiguos.
+	- En una mesa de piedra, un esqueleto con ropas de acólito sostiene un **fragmento de tablilla** que brilla débilmente (pieza 1 de 3 para abrir el portón al siguiente nivel).
+	- 
 ### Nivel 2 – La Cripta del Guardián
 
 - Arquitectura más elaborada, con símbolos arcanos.
