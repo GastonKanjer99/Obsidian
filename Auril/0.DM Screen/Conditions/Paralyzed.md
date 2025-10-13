@@ -1,4 +1,4 @@
-- A paralyzed creature is [incapacitated](https://roll20.net/compendium/dnd5e/Rules:Conditions?expansion=34047#toc_6) (see the condition) and can’t move or speak.
-- The creature automatically fails [Strength](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_12) and [Dexterity](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_17) [saving throws](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_35).
-- [Attack rolls](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_32) against the creature have [advantage](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2).
-- Any [attack](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_21) that hits the creature is a [critical hit](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_49) if the attacker is within 5 feet of the creature.
+- A paralyzed creature is [[Incapacitated]] and can’t move or speak.
+- The creature automatically fails Strength and Dexterity saving throws.
+- Attack rolls against the creature have advantage.
+- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.

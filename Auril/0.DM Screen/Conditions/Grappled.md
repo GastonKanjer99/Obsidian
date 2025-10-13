@@ -1,3 +1,3 @@
-- A grappled creature’s [speed](https://roll20.net/compendium/dnd5e/Rules:Movement?expansion=34047#toc_1) becomes 0, and it can’t benefit from any bonus to its speed.
-- The condition ends if the grappler is [incapacitated](https://roll20.net/compendium/dnd5e/Rules:Conditions?expansion=34047#toc_6) (see the condition).
-- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the _[thunderwave](https://roll20.net/compendium/dnd5e/Thunderwave?expansion=34047#content)_ spell.
+- A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
+- The condition ends if the grappler is [[Incapacitated]].
+- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the **thunderwave** spell.
