@@ -1,4 +1,4 @@
-Se construyó sobre ruinas mucho más viejas. Lo que los jugadores pensaban que eran simples túneles de contrabandistas son, en realidad, los restos de un santuario o fortaleza olvidada.
+[[Ceding]]Se construyó sobre ruinas mucho más viejas. Lo que los jugadores pensaban que eran simples túneles de contrabandistas son, en realidad, los restos de un santuario o fortaleza olvidada.
 - Algunos edificios se han ido hundiendo lentamente, y hay rumores de que “la tierra está hueca”.  
     Esto puede conectar con la anomalía mágica del mapa (👀 ¿quizás el origen de esa magia empieza acá?).
 ## Estructura de la dungeon (para 2–3 sesiones)
