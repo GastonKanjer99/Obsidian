@@ -3,4 +3,4 @@
 - Attack rolls against the creature have advantage.
 - The creature automatically fails Strength and Dexterity saving throws.
 - The creature has resistance to all damage.
-- The creature is immune to [[Poisoned]] and disease, although a poison or disease already in its system is suspended, not neutralized.
+- The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
