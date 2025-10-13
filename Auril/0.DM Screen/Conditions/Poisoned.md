@@ -1,0 +1,1 @@
+- A poisoned creature has [disadvantage](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2) on [attack rolls](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_32) and [ability checks](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_4).

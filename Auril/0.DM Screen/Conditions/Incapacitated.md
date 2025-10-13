@@ -1,0 +1,1 @@
+- An incapacitated creature can’t take [actions](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_20) or [reactions](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_8).

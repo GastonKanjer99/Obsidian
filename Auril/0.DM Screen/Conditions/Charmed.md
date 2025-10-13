@@ -1,0 +1,2 @@
+- A charmed creature can’t attack the charmer or target the charmer with harmful abilities or magical effects.
+- The charmer has [advantage on any [ability check](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_4) to interact socially with the creature.

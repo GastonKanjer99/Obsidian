@@ -1,0 +1,1 @@
+- A deafened creature can’t hear and automatically fails any [ability check](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_4) that requires hearing.

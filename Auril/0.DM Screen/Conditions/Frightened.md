@@ -1,0 +1,2 @@
+- A frightened creature has [disadvantage](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2) on [ability checks](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_4) and [attack rolls](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_32) while the source of its fear is within line of sight.
+- The creature can’t willingly [move](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_9) closer to the source of its fear.
