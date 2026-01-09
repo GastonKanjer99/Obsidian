@@ -32,7 +32,7 @@ Mini arco, dividido en capas o “niveles”:
 	- En el fondo del pozo: huesos humanos y una daga vieja con un símbolo extraño (puede ser una pista del antiguo culto).
 3. Sala de los Restos
 	- Entre los escombros hay cajas viejas con mercancía robada mezclada con objetos antiguos.
-	- En una mesa de piedra, un esqueleto con ropas de acólito sostiene un **fragmento de tablilla** que brilla débilmente (pieza 1 de 3 para abrir el portón al siguiente nivel).
+	- En una mesa de piedra, un esqueleto con ropas de acólito sostiene un **fragmento de tablilla** (le falta una esquina) que brilla débilmente (pieza 1 de 3 para abrir el portón al siguiente nivel).
 4. Cámara del Sello
 	- Sala circular con un gran portón sellado de piedra en el centro.
 	- En tres nichos hay **estatuas mutiladas de minotauros**, cada una con una tablilla, salvo a una que le falta.
@@ -74,7 +74,29 @@ Una sala relativamente segura, para bajar pulsaciones tras Nivel 1.
 - DC 18
     > “El diseño es redundante. Si un sello falla, los otros compensan.”
 
+##### Sala de Mecanismos (puzzle / trampa)
 
+Acá metemos **interacción sin combate**.
+**La idea base (simple y efectiva):**
+- Cuatro plataformas de piedra rodeando una fosa poco profunda.
+- Cada una representa un “Sello”.
+- El sistema está desbalanceado.
+
+#### Opciones para resolverlo (todas válidas):
+
+- Reequilibrar pesos (objetos, cuerpos, equipo).
+- Activar runas con sangre (1d4 daño, decisión consciente).
+- Forzar un mecanismo → funciona, pero rompe algo (consecuencia futura).
+
+Frase clave:
+
+> “El sistema todavía funciona…  
+> pero ya no está completo.”
+
+👉 No hay “respuesta correcta”.  
+Cada elección **define cómo llega el Nivel 3**.
+
+##### Encuentro controlado
 
 
 
