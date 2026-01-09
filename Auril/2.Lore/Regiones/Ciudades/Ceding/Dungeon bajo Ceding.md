@@ -1,9 +1,9 @@
-[[Ceding]]Se construyó sobre ruinas mucho más viejas. Lo que los jugadores pensaban que eran simples túneles de contrabandistas son, en realidad, los restos de un santuario o fortaleza olvidada.
+[[Ceding]] se construyó sobre ruinas mucho más viejas. Lo que los jugadores pensaban que eran simples túneles de contrabandistas son, en realidad, los restos de un santuario o fortaleza olvidada.
 - Algunos edificios se han ido hundiendo lentamente, y hay rumores de que “la tierra está hueca”.  
     Esto puede conectar con la anomalía mágica del mapa (👀 ¿quizás el origen de esa magia empieza acá?).
 ## Estructura de la dungeon (para 2–3 sesiones)
 
-Piensala como un mini arco, dividido en capas o “niveles”:
+Mini arco, dividido en capas o “niveles”:
 ###  Nivel 1 – Los Restos del Laberinto
 
 - Ambiente húmedo y parcialmente colapsado.
