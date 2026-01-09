@@ -7,13 +7,9 @@ Mini arco, dividido en capas o “niveles”:
 ###  Nivel 1 – Los Restos del Laberinto
 
 - Ambiente húmedo y parcialmente colapsado.
-    
 - Secciones de los antiguos túneles del minotauro mezcladas con estructuras de piedra más finas.
-    
-- Enemigos: **ratas gigantes**, **bandidos rezagados**, o **no muertos débiles** (guardianes antiguos).
-    
+- Enemigos: Ghouls).
 - Objetivo: encontrar una forma de abrir un portón bloqueado o descifrar quién construyó el lugar.
-    
 - Recompensa: mapas, símbolos antiguos o un talismán.
 #### **Estructura general del nivel**
 
@@ -35,7 +31,6 @@ Mini arco, dividido en capas o “niveles”:
 	- Un túnel largo con el suelo húmedo. Si no van con cuidado, una sección colapsa: tirada de Destreza **DC 13** para evitar caer en un pozo de 3 m (1d6 daño).
 	- En el fondo del pozo: huesos humanos y una daga vieja con un símbolo extraño (puede ser una pista del antiguo culto).
 3. Sala de los Restos
-	- Aquí hay **dos esqueletos animados (CR ¼)** y una **rata gigante (CR ⅛)**.
 	- Entre los escombros hay cajas viejas con mercancía robada mezclada con objetos antiguos.
 	- En una mesa de piedra, un esqueleto con ropas de acólito sostiene un **fragmento de tablilla** que brilla débilmente (pieza 1 de 3 para abrir el portón al siguiente nivel).
 4. Cámara del Sello
@@ -60,16 +55,30 @@ Cuando coloquen la tablilla y derroten al espectro:
 ### Nivel 2 – La Cripta del Guardián
 
 - Arquitectura más elaborada, con símbolos arcanos.
-    
 - Puzzles o trampas (plataformas, runas, mecanismos de agua).
-    
 - Enemigos: **constructos menores**, **esqueletos**, o **bestias mutadas** por energía mágica.
-    
 - En el centro hay un **altar destrozado**, con rastros del sello que contenía al minotauro.
-    
 - Los jugadores descubren inscripciones sobre una **“Magia de la Sangre” o “Sello de los Cuatro”**.
 
+#### Estructura
+##### Antesala de Observación
+Una sala relativamente segura, para bajar pulsaciones tras Nivel 1.
+**Elementos:**
+- Murales tallados: figuras humanas rodeando una bestia cornuda.
+- Cuatro símbolos repetidos (los futuros “Sellos”).
+- Un pedestal vacío (falta una pieza → la del Nivel 1).
+**Info con tiradas:**
 
+- Historia / Arcana DC 13
+    > “Esto parece un sistema de contención, no un templo.”
+- DC 18
+    > “El diseño es redundante. Si un sello falla, los otros compensan.”
+
+
+
+
+
+Esto planta la idea de que **algo está fallando hace tiempo**.
 ### Nivel 3 – El Corazón Olvidado
 
 - Sala grande, posiblemente parcialmente inundada o bajo tierra, con un **cristal o artefacto mágico** que late o emite energía.
