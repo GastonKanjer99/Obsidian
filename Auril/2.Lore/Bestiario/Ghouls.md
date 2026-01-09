@@ -160,7 +160,6 @@ Recién ahora decí:
 
 **“Tiren iniciativa.”**
 
-## Roleo combate
 
 ## Prioridades de un ghoul (en este orden)
 
@@ -298,6 +297,13 @@ Preguntate:
 > **“¿Qué haría un cadáver hambriento que lleva siglos esperando?”**
 
 Y jugá eso.
+## Resumen rápido para usar en mesa
+
+- Prioridad: paralizado → sangrante → aislado
+- Arrastran cuerpos
+- Comen incluso en combate
+- No coordinan bien
+- No luchan “limpio”
 
 ## Tiradas de Historia / Religión
 

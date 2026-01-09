@@ -30,7 +30,6 @@ Mini arco, dividido en capas o “niveles”:
 	- Si los jugadores investigan, pueden encontrar **una inscripción rota**:
 		“Aquí se encadenó al Guardián, por mandato del Círculo…”
 	- También hay marcas de garras antiguas en las paredes: no son del minotauro.
-	- 
 	- Al ratito de bajar de bajar se encuentran con un grupo de 4 [[Ghouls]]
 2. Pasillo del Eco (trampa ambiental)
 	- Un túnel largo con el suelo húmedo. Si no van con cuidado, una sección colapsa: tirada de Destreza **DC 13** para evitar caer en un pozo de 3 m (1d6 daño).
@@ -42,7 +41,7 @@ Mini arco, dividido en capas o “niveles”:
 4. Cámara del Sello
 	- Sala circular con un gran portón sellado de piedra en el centro.
 	- En tres nichos hay **estatuas mutiladas de minotauros**, cada una con una tablilla, salvo a una que le falta.
-	- Al colocar la tablilla encontrada, el portón emite un temblor leve… y un **espectro antiguo (CR 1)** aparece, gritando en una lengua olvidada.
+	- Al colocar la tablilla encontrada, el portón emite un temblor leve… y un **[[Specter]] antiguo (CR 1)** aparece, gritando en una lengua olvidada.
 		- Puede intentar poseer a un jugador o luchar hasta que se le dé “paz”.
 	-  Tras vencerlo, el portón se abre parcialmente, revelando una escalera descendente envuelta en niebla.
 
