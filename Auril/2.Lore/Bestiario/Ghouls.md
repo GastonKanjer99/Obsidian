@@ -162,7 +162,142 @@ Recién ahora decí:
 
 ## Roleo combate
 
+## Prioridades de un ghoul (en este orden)
 
+### 1. Presa inmóvil
+
+Si alguien queda **paralizado**:
+
+- Ese ghoul **cambia de objetivo**
+- No sigue repartiendo golpes
+- Intenta **[[agarrar]] y arrastrar**
+
+Decilo así:
+
+> “No vuelve a atacarte.  
+> Te agarra del hombro… y empieza a tirar.”
+
+Incluso si provoca ataques de oportunidad.  
+Eso es animal, no táctico.
+### 2. El que sangra
+
+Si alguien:
+
+- Está a mitad de vida
+- Fue herido recientemente
+- Cayó y se levantó
+ los ghouls lo huelen.
+Roleo:
+
+> “No te mira a los ojos.  
+> Mira tu herida.”
+
+### 3. El que está aislado
+
+- Último en la fila
+- Flanqueando
+- En la retaguardia
+- 
+Los ghouls **no coordinan**, pero **convergen**.
+
+## Cómo se mueven (esto es clave)
+
+❌ No:
+
+- Rodean tácticamente
+- Se cubren
+- Hacen focus fire inteligente
+
+✅ Sí:
+
+- Avanzan torpemente
+- Se chocan entre ellos
+- Trepan, se arrastran, caen y se levantan
+
+Decilo:
+
+> “No pelea bien.  
+> Pelea con desesperación.”
+
+---
+
+## 3️⃣ Qué hacen cuando algo sale mal
+
+### 🔥 Si cae un ghoul
+
+Los otros:
+
+- Chillan
+- Se detienen medio segundo
+- Miran el cuerpo
+
+Uno puede incluso:
+
+- Arrodillarse
+- Morderlo
+- Arrancarle carne
+
+Eso genera horror y **no rompe reglas**.
+
+---
+
+### 🩸 Si un ghoul está a punto de morir
+
+Dos opciones muy efectivas:
+
+- Huye hacia la oscuridad
+- Se lanza en un ataque suicida para paralizar a alguien
+
+Elegí según tensión.
+
+---
+
+## 4️⃣ Qué NO hacen nunca (importantísimo)
+
+❌ No hablan  
+❌ No se burlan  
+❌ No amenazan  
+❌ No explican
+
+Si hacen un sonido:
+
+- Gorgoteo
+- Gruñido bajo
+- Mandíbula castañeando
+
+El silencio es tu aliado.
+
+---
+
+## 5️⃣ El momento más terrorífico (usalo 1 vez)
+
+Cuando un PJ cae a 0 HP:
+
+> El ghoul no celebra.  
+> No mira al resto.  
+> Se arrodilla sobre el cuerpo…  
+> y empieza a comer.
+
+No describas daño.  
+Describí **intención**.
+
+Eso hace que el grupo reaccione con urgencia real.
+
+---
+
+## 6️⃣ Regla de oro para vos como DM
+
+Si en algún momento te preguntás:
+
+> “¿Qué sería lo más óptimo?”
+
+No.
+
+Preguntate:
+
+> **“¿Qué haría un cadáver hambriento que lleva siglos esperando?”**
+
+Y jugá eso.
 
 ## Tiradas de Historia / Religión
 
