@@ -65,6 +65,104 @@ Frase clave para tirar:
 > “Estos cuerpos no fueron traídos acá. Fueron enterrados.”
 
 Esto **cierra perfecto** con el Círculo y no requiere desapariciones.
+## Roleo aparición
+
+ **Escena para narrar: “No estaba muerto”**
+
+> La cámara se abre en una cripta amplia y baja.  
+> El techo desciende apenas por encima de sus cabezas, sostenido por columnas de piedra vieja, comidas por la humedad.  
+> El aire es denso. Viejo.  
+> No se mueve.
+
+Con darkvision, todo se revela en tonos apagados de gris.
+
+> Ves nichos funerarios en las paredes.  
+> Filas y filas.  
+> Algunos abiertos. Otros sellados con losas partidas.
+
+Hay cuerpos.
+
+> La mayoría está inmóvil.  
+> Secos. Encogidos.  
+> Como si llevaran siglos esperando.
+
+Hacé una pausa. Mirá a los jugadores.
+
+> Al fondo de la cámara, distinguís una figura separada del resto.  
+> No está en un nicho.  
+> Está sentada contra la pared, encorvada, con la cabeza caída hacia un lado.
+
+Dejá que alguien diga algo.  
+No respondas todavía.
+
+> A primera vista, parece un cadáver más.  
+> Pero algo no termina de encajar.
+
+Pedí **Percepción** (DC baja, 10–12).  
+Si alguien falla, seguí igual. Esto no depende de la tirada.
+
+> No tiene polvo encima.
+
+Pausa.
+
+> Y sus manos…  
+> están apoyadas en el suelo, no rígidas.  
+> Como si se hubiera detenido a mitad de un movimiento.
+
+Silencio en mesa.
+
+> La cabeza se mueve.
+
+No rápido.  
+No brusco.
+
+> Lentamente.  
+> Demasiado lentamente.
+
+> El cuello gira en un ángulo incómodo, antinatural, hasta que el rostro queda de perfil.  
+> Sus ojos están abiertos.
+
+Oscuros. Vacíos.
+
+> No los mira a ustedes.  
+> Olfatea.
+
+Si alguien prende una antorcha ahora, mejor.  
+Si no, seguí así:
+
+> En darkvision no distinguís colores.  
+> No sabés si lo que cuelga de su boca es tela…  
+> o carne reseca.
+
+> Se incorpora.  
+> No de un salto.  
+> Apoyando las manos en el suelo, como un animal torpe que recuerda cómo usar un cuerpo humano.
+
+> Da un paso.
+
+Se detiene.
+
+> Abre la boca.  
+> Los dientes no encajan del todo.  
+> La mandíbula se abre más de lo que debería.
+
+Otro paso.
+
+> En ese momento, desde los nichos a los costados, escuchan el mismo sonido.  
+> Uñas contra piedra.  
+> Muy despacio.
+
+> No estaban muertos.
+
+> Estaban esperando.
+
+Recién ahora decí:
+
+**“Tiren iniciativa.”**
+
+## Roleo combate
+
+
 
 ## Tiradas de Historia / Religión
 
