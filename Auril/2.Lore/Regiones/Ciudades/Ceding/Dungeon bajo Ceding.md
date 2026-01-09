@@ -30,6 +30,7 @@ Mini arco, dividido en capas o “niveles”:
 	- Si los jugadores investigan, pueden encontrar **una inscripción rota**:
 		“Aquí se encadenó al Guardián, por mandato del Círculo…”
 	- También hay marcas de garras antiguas en las paredes: no son del minotauro.
+	- Al ratito de bajar de bajar se encuentran con un grupo de 4 [[Ghouls]]
 2. Pasillo del Eco (trampa ambiental)
 	- Un túnel largo con el suelo húmedo. Si no van con cuidado, una sección colapsa: tirada de Destreza **DC 13** para evitar caer en un pozo de 3 m (1d6 daño).
 	- En el fondo del pozo: huesos humanos y una daga vieja con un símbolo extraño (puede ser una pista del antiguo culto).
