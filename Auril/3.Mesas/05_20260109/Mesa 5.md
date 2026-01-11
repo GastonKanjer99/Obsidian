@@ -7,4 +7,4 @@ En vez de ir hacia el interior decidieron ir a descansar a una taberna cercana, 
 
 Los jugadores subieron de nivel, y luego de salir de la taberna fueron hacia la caverna otra vez, alli tuvieron una batalla dificil frente a un grupo de 4 ghouls, luego de ganar, arrancaron la cabeza de uno de los ghouls quedaron muy malheridos y decidieron volver a la taberna para descansar, allí se fueron de compras:
 - [[El Brujo Ezequiel]] llevó su rapier al herrero comunista de Ceding para "mejorarlo"
-- [[Syltheris]] llevó los dientes de ghoul 
+- [[Syltheris]] llevó los dientes de ghoul a un artesano para hacerse un collar
