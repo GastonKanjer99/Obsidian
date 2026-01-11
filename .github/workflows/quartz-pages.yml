@@ -43,7 +43,24 @@ jobs:
         run: |
           rm -rf quartz/content/*
           mkdir -p quartz/content
-          cp -r z_Publico/* quartz/content/ || true
+
+          # Copiamos TODO z_Publico a content (incluyendo subcarpetas)
+          cp -r z_Publico/. quartz/content/
+
+          # Por si Windows/Git dejó Index.md con mayúscula
+          if [ -f "quartz/content/Index.md" ] && [ ! -f "quartz/content/index.md" ]; then
+            mv quartz/content/Index.md quartz/content/index.md
+          fi
+
+          echo "=== content root ==="
+          ls -la quartz/content | head -n 50
+
+          # Si sigue faltando, fallamos con un error claro
+          if [ ! -f "quartz/content/index.md" ]; then
+            echo "❌ Missing quartz/content/index.md (home page)"
+            exit 1
+          fi
+
 
       - name: Build Quartz
         run: |
