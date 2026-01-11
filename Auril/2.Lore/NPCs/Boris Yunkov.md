@@ -78,20 +78,11 @@ Cuando el noble se queja:
 > “Acá no hay rangos.  
 > Hay turnos.”
 
-Si el noble amenaza:
-
-> “Probá.  
-> El yunque recuerda mejor que yo.”
-
 Si el noble intenta pagar más para pasar primero:
 
 > “El acero no se apura.  
 > Y yo tampoco.”
 
-Lo hermoso:
+Si el noble amenaza:
 
-- **Nunca lo insulta**
-    
-- Nunca levanta la voz
-    
-- El poder está en que **no necesita ganar la discusión**
+> “No amenaces donde se trabaja.”
