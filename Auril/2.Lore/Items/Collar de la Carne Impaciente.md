@@ -39,3 +39,40 @@ Entonces:
     - Si falla:
         - No puede usar reacciones hasta su próximo turno
         - Está demasiado ocupado _sintiendo_ algo horrible
+
+### **Residuos de la Maldición**
+
+> **Sacarse el collar detiene la progresión,  
+> pero NO borra la marca.**
+
+Ejemplos:
+
+- Sueños incómodos
+- Oler sangre donde no la hay
+- Reacciones viscerales ante cadáveres
+- NPCs sensibles (clérigos, druidas) _lo notan_
+
+Mecánicamente:
+
+- **Nada forzado**
+- Todo roleo
+
+Duración:
+
+- Hasta que pase algo concreto:
+    - un descanso largo en lugar consagrado
+    - una bendición menor
+    - un ritual sencillo
+
+
+## Cómo se rompe la maldición
+
+Nunca hagas “Remove Curse y listo” como única opción.
+
+Mejor:
+
+- Bendecir los dientes 
+- Quemarlos ritualmente
+- Reemplazarlos por colmillos de una bestia viva
+- Enterrarlos en tierra consagrada
+- O aceptar la maldición y dejar que evolucione (camino oscuro)
