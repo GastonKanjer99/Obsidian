@@ -29,20 +29,13 @@ Cuando el personaje **falla 2–3 salvaciones** a lo largo de sesiones:
 Solo si el jugador:
 
 - Se rehúsa a quitárselo
-    
 - Sigue agregando dientes
-    
 - Abraza el objeto
-    
 
 Entonces:
 
 - Si el personaje reduce a una criatura a 0 HP:
-    
     - Debe pasar una **Sabiduría DC 13**
-        
     - Si falla:
-        
         - No puede usar reacciones hasta su próximo turno
-            
         - Está demasiado ocupado _sintiendo_ algo horrible
