@@ -50,6 +50,21 @@ jobs:
           cd quartz
           pnpm quartz build
 
+      - name: Debug generated site
+        run: |
+          echo "=== quartz/public top-level ==="
+          ls -la quartz/public | head -n 50
+          echo "=== check index.html ==="
+          if [ -f quartz/public/index.html ]; then
+            echo "✅ index.html exists"
+          else
+            echo "❌ index.html MISSING"
+            echo "=== tree (depth 2) ==="
+            find quartz/public -maxdepth 2 -type f | head -n 200
+            exit 1
+          fi
+
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
