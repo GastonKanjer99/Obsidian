@@ -27,13 +27,17 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          node-version: '22.x'
+
+      - name: Install pnpm
+        run: npm install -g pnpm
 
       - name: Clone Quartz
         run: |
           git clone https://github.com/jackyzha0/quartz.git
           cd quartz
-          npm ci
+          pnpm install
+
 
       - name: Copy public notes into Quartz content
         run: |
@@ -44,7 +48,7 @@ jobs:
       - name: Build Quartz
         run: |
           cd quartz
-          npm run build
+          pnpm quartz build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
