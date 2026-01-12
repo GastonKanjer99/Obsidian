@@ -1,103 +1,53 @@
-# 📖 Crónicas del Mundo
+# ⚔️ Combate
 
-Bienvenidos, viajeros.
+El combate no es solo intercambio de golpes.
+Es movimiento, presión, decisiones y consecuencias.
 
-Este compendio reúne el conocimiento conocido del mundo:  
-sus tierras, sus gentes, sus amenazas… y las historias que ustedes están escribiendo.
+Cada turno representa unos pocos segundos,
+pero **lo que hacés en ellos define la pelea**.
 
-No todo lo que existe está aquí.  
-No todo lo que está aquí es verdad.  
-Pero todo lo que lean **puede importar**.
-
----
-
-## 🌍 El Mundo
-
-Fragmentos de historia, regiones, cultos y fuerzas que moldean el presente.
-
-- 📜 [[Lore/Historia_General|Historia conocida]]
-- 🗺️ [[Lore/Regiones|Regiones y territorios]]
-- 🏛️ [[Lore/Facciones|Facciones y poderes]]
-- ✨ [[Lore/Magia_y_Mitos|Magia, mitos y supersticiones]]
-
-> *El mundo no es estático. Lo que hoy es rumor, mañana puede ser leyenda.*
+Esta sección explica qué opciones tenés disponibles
+y cómo usarlas de forma inteligente.
 
 ---
 
-## 🧑‍🤝‍🧑 Personas Importantes (NPCs)
+## ⏱️ Qué representa un turno
 
-Reyes, mercenarios, sabios, criminales…  
-Algunos serán aliados. Otros, problemas. Algunos, ambas cosas.
+Un turno no es una acción aislada.
+Es una combinación de:
+- intención
+- movimiento
+- ejecución
 
-- 👑 [[NPCs/Lista_de_NPCs|Listado de NPCs conocidos]]
-- 🕵️ [[NPCs/Contactos|Contactos y relaciones]]
-- ☠️ [[NPCs/Enemigos_Notorios|Enemigos notorios]]
-
-> *Recordar un nombre puede salvarles la vida.  
-> Olvidarlo también puede costarla.*
-
----
-
-## ⚔️ Condiciones, Enfermedades y Riesgos
-
-El mundo deja marcas. No todas son visibles.
-
-- ⚠️ [[Conditions/Index|Condiciones (Blinded, Poisoned, etc.)]]
-- 🦠 [[Diseases/Index|Enfermedades conocidas]]
-- 🔥 [[Hazards/Index|Riesgos ambientales y maldiciones]]
-
-Estas entradas describen **qué les pasa** y **cómo se manifiesta**,  
-no siempre **cómo se cura**.
+Pensalo como:
+> *“¿Qué intenta lograr mi personaje en estos segundos?”*
 
 ---
 
-## 🎭 Guía para Personajes Jugadores
+## 🧩 Opciones básicas en combate
 
-Esta sección está pensada para ustedes, jugadores.  
-No es una lista de reglas: es una **guía para tomar decisiones**.
+Durante tu turno, normalmente podés:
 
-### 🧠 Rol
-- Qué tipo de persona es tu personaje en el mundo  
-- Cómo suele resolver conflictos  
-- Qué lo mueve, qué lo frena, qué lo tienta
+- ⚔️ [[Combat/Actions|Acción]]
+- ✨ [[Combat/Bonus_Actions|Acción adicional]]
+- 🏃 [[Combat/Movement|Movimiento]]
+- 🛡️ [[Combat/Reactions|Reacción]]
 
-➡️ [[Players/Roleplay_Guide|Guía de interpretación]]
-
-### ⚔️ Combate
-- Qué hace bien tu personaje
-- En qué situaciones brilla
-- Qué errores comunes evitar
-
-➡️ [[Players/Combat_Guide|Guía de combate]]
-
-### 🧩 Guías personalizadas
-Cada personaje tiene una entrada propia con:
-- su rol narrativo
-- sus fortalezas
-- ideas de cómo aprovecharlo en escena y en combate
-
-➡️ [[Players/Characters_Index|Guías de personajes]]
+No siempre vas a usar todas.
+Elegir **cuál sí y cuál no** es parte del combate.
 
 ---
 
-## 🕯️ Crónicas de la Mesa
+## 🎯 Mentalidad correcta
 
-Relatos de lo ocurrido… desde el punto de vista del mundo.
+No todas las acciones buscan daño inmediato.
 
-- 📅 [[Sessions/Index|Sesiones jugadas]]
-- 📖 [[Sessions/Resumenes|Resúmenes narrativos]]
+A veces conviene:
+- ganar posición
+- proteger a otro
+- forzar al enemigo a reaccionar
+- preparar algo mejor para el próximo turno
 
-> *La historia no se escribe sola.  
-> Se escribe con decisiones.*
+El combate se gana **antes** de que alguien caiga a 0 HP.
 
 ---
-
-## ⚠️ Nota final
-
-Este compendio refleja **lo que sus personajes saben o creen saber**.  
-Hay verdades incompletas, errores y silencios deliberados.
-
-Si algo no está aquí, no significa que no exista.  
-Significa que aún no lo descubrieron.
-
-Buena suerte.
