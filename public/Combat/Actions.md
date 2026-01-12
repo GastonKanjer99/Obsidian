@@ -15,6 +15,7 @@ El uso más común de la Acción.
 - Ataques cuerpo a cuerpo
 - Ataques a distancia
 - Ataques desarmados
+- Hechizos
 
 Es simple, directo y efectivo.
 Pero no siempre es la mejor opción.
@@ -91,9 +92,67 @@ Ejemplo:
 
 ---
 
+## 🏃 Desengancharse (Disengage)
+
+Te movés sin provocar ataques de oportunidad.
+
+📌 Útil cuando:
+
+- estás trabado con varios enemigos
+
+- necesitás reposicionarte sin exponerte
+
+ -querés atraer enemigos sin pagar el costo
+
+⚠️ Nota importante:
+Desengancharse no es huir cobardemente.
+Es elegir dónde peleás.
+
+---
+
+## 🕶️ Esconderse (Hide)
+
+Intentás salir de la vista del enemigo.
+
+📌 Útil cuando:
+
+- usás sigilo (especialmente pícaros)
+
+- querés preparar un ataque con ventaja
+
+- necesitás romper la línea de visión
+
+⚠️ Esconderse no es volverte invisible.
+El entorno importa, y el DM decide si es posible.
+
+---
+
+## 🔍 Buscar (Search)
+
+Usás tu turno para:
+
+- encontrar una criatura oculta
+
+- detectar trampas
+
+- identificar algo importante en el entorno
+
+📌 Útil cuando:
+
+- algo no cierra en la escena
+
+-el enemigo juega al sigilo
+
+-el terreno es tan peligroso como el combate
+
+-Buscar a tiempo suele evitar problemas más grandes.
+
+---
+
 ## 🧩 Acciones no listadas
 
 Si podés describirlo con sentido:
+- agarrar (grapplear)
 - empujar
 - derribar
 - distraer
