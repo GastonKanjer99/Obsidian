@@ -68,7 +68,7 @@ No es una lista de reglas: es una **guía para tomar decisiones**.
 - En qué situaciones brilla
 - Qué errores comunes evitar
 
-➡️ [[Players/Combat_Guide|Guía de combate]]
+➡️ [[Combat/Index|Guía de combate]]
 
 ### 🧩 Guías personalizadas
 Cada personaje tiene una entrada propia con:
