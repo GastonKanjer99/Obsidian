@@ -98,8 +98,6 @@ Cada elección **define cómo llega el Nivel 3**.
 
 ##### Encuentro controlado
 
-
-
 Esto planta la idea de que **algo está fallando hace tiempo**.
 ### Nivel 3 – El Corazón Olvidado
 
