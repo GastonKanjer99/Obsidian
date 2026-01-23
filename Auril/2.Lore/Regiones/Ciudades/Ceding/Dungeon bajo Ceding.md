@@ -73,6 +73,24 @@ Una sala relativamente segura, para bajar pulsaciones tras Nivel 1.
     > “Esto parece un sistema de contención, no un templo.”
 - DC 18
     > “El diseño es redundante. Si un sello falla, los otros compensan.”
+    
+
+**Un sello fracturado**
+- Uno de los cuatro símbolos está dañado.
+    
+- Si alguien lo examina:
+    
+    > “No se rompió por desgaste. Fue forzado.”
+
+**Marcas de sangre seca**
+- No es ritual completo, es sangre _desesperada_.
+- No está bien canalizada.
+
+ **El pedestal vacío**
+
+- Tiene restos de energía residual.
+- Detect Magic → Abjuración + Necromancia
+
 
 ##### Sala de Mecanismos (puzzle / trampa)
 
