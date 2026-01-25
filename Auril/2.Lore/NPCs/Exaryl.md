@@ -1,1 +1,1 @@
-![[Exaryl.jpg]]
+![[Exaryl_img.jpg]]

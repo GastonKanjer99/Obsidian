@@ -1,0 +1,78 @@
+## Descripción
+
+- El portador tiene **ventaja en tiradas de Intimidación** contra criaturas humanoides _heridas_ o visiblemente débiles.
+- Los NPCs lo miran raro. Algunos retroceden. Otros se incomodan.
+
+### Primer síntoma
+
+Después de 1–2 combates:
+
+- Cuando una criatura cae a **0 HP** cerca del portador:
+    -  **Salvación de Sabiduría DC 10** (no expliques por qué).
+    - Si falla:
+        - Sentís un impulso desagradable.
+        - Hambre.
+        - Olor a sangre amplificado.
+
+No hay efecto mecánico todavía.  
+Solo descripción.
+
+#### Efecto leve (cuando falla varias veces)
+
+Cuando el personaje **falla 2–3 salvaciones** a lo largo de sesiones:
+- En el **primer turno de combate**, si hay un enemigo herido:
+    - Tiene **desventaja en la primera tirada de ataque** si NO ataca a una criatura ya dañada.
+
+
+#### Efecto fuerte (si insiste en usarlo)
+
+Solo si el jugador:
+
+- Se rehúsa a quitárselo
+- Sigue agregando dientes
+- Abraza el objeto
+
+Entonces:
+
+- Si el personaje reduce a una criatura a 0 HP:
+    - Debe pasar una **Sabiduría DC 13**
+    - Si falla:
+        - No puede usar reacciones hasta su próximo turno
+        - Está demasiado ocupado _sintiendo_ algo horrible
+
+### **Residuos de la Maldición**
+
+> **Sacarse el collar detiene la progresión,  
+> pero NO borra la marca.**
+
+Ejemplos:
+
+- Sueños incómodos
+- Oler sangre donde no la hay
+- Reacciones viscerales ante cadáveres
+- NPCs sensibles (clérigos, druidas) _lo notan_
+
+Mecánicamente:
+
+- **Nada forzado**
+- Todo roleo
+
+Duración:
+
+- Hasta que pase algo concreto:
+    - un descanso largo en lugar consagrado
+    - una bendición menor
+    - un ritual sencillo
+
+
+## Cómo se rompe la maldición
+
+Nunca hagas “Remove Curse y listo” como única opción.
+
+Mejor:
+
+- Bendecir los dientes 
+- Quemarlos ritualmente
+- Reemplazarlos por colmillos de una bestia viva
+- Enterrarlos en tierra consagrada
+- O aceptar la maldición y dejar que evolucione (camino oscuro)

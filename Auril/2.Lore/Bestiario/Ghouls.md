@@ -1,5 +1,5 @@
 ## Lore
-![[Pasted image 20260109164544.png]]
+![[Ghoul_scene_img.png]]
 - **Hambre inextinguible**
     
     - Los ghouls no sólo atacan: _anseían_ carne humana. Esa ansiedad los hace impredecibles.
@@ -33,7 +33,7 @@
 
 ## Stats
 
-![[Pasted image 20260109165132.png]]
+![[Ghoul_stats_img.png]]
 
 # Ghouls Dungeon Ceding
 
