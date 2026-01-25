@@ -97,8 +97,62 @@ _(pausa – dejalos mirar)_
 
 ##### Si notan el pedestal:
 
-> La superficie está gastada, como si algo hubiera descansado ahí durante mucho tiempo.  
-> Hay restos de energía residual… y marcas de haber sido retirado **a la fuerza**.
+> La piedra del altar no está rota al azar.  
+> Está **desgastada**, como si algo pesado hubiese reposado ahí durante generaciones.
+> 
+> Las runas no están destruidas…  
+> están **rasgadas**, interrumpidas a mitad de su función.
+> 
+> Percibís un residuo arcano inestable.  
+> No de una ruptura natural, sino de algo **arrancado**.
+> 
+> Esto no se liberó solo.  
+> **Alguien decidió que ya no debía estar acá.**
+
+El minotauro **no escapó caminando**.
+
+Fue:
+
+- **Invocado hacia afuera**
+- O trasladado mediante un ritual incompleto
+
+Evidencias en Nivel 2:
+
+- Runas quemadas en el altar
+- Restos de sangre seca
+- Un patrón de invocación **invertido**
+
+ El Círculo **no abrió el lugar**  
+ **Lo usó como ancla**
+
+Por eso:
+
+- El sello falló
+- El minotauro apareció en otro punto del mundo
+- El complejo quedó inestable
+
+Texto listo para narrar en Nivel 2:
+
+> Las runas no apuntan hacia la escalera.
+> 
+> Todas convergen… hacia afuera.
+> 
+> Como si aquello que estuvo aquí  
+> **no se hubiera ido caminando**.
+> 
+> El portón no fue abierto.
+> 
+> El sello fue **forzado**.
+
+Si alguien pregunta:
+
+> “Entonces… ¿por dónde salió?”
+
+Respuesta perfecta:
+
+> _No por donde ustedes entraron._
+
+Silencio incómodo. Fin de escena.
 
 
 ##### Si alguien tira Historia / Arcana:
@@ -146,7 +200,46 @@ _(pausa – dejalos mirar)_
 - Detect Magic → Abjuración + Necromancia
 
 
-##### Sala de Mecanismos (puzzle / trampa)
+
+#### Sala de Mecanismos (puzzle / trampa)
+
+> Un arco bajo da paso a una segunda cámara.  
+> El suelo desciende levemente hacia el centro, donde una losa de piedra cubierta de runas apagadas ocupa el corazón de la sala.
+
+> Alrededor, cuatro plataformas de piedra emergen del suelo, conectadas por canales tallados.  
+> Están secas.  
+> Demasiado secas.
+
+_(pausa)_
+
+> No hay ruido.  
+> No hay enemigos.  
+> Pero la sala se siente **tensa**.  
+> Como si algo estuviera esperando que alguien cometa un error.
+
+##### Al observar las plataformas:
+
+> Una está levemente hundida.  
+> Otra tiene grietas profundas.  
+> Una tercera conserva manchas oscuras, casi borradas por el tiempo.  
+> La cuarta está intacta… casi impecable.
+
+##### Si alguien se acerca a tocar algo:
+
+> Al apoyar el peso, la piedra responde con un leve crujido.  
+> No se rompe.  
+> Pero algo se ajusta en las profundidades del lugar.
+
+##### Si intentan activar runas o el mecanismo:
+
+> Las runas no se iluminan del todo.  
+> Parpadean.  
+> Como un sistema que todavía funciona… pero con piezas faltantes.
+
+> Sea lo que sea que este lugar contenía…  
+> ya no está siendo sostenido como antes.
+
+
 
 Acá metemos **interacción sin combate**.
 **La idea base (simple y efectiva):**
@@ -154,7 +247,7 @@ Acá metemos **interacción sin combate**.
 - Cada una representa un “Sello”.
 - El sistema está desbalanceado.
 
-#### Opciones para resolverlo (todas válidas):
+##### Opciones para resolverlo (todas válidas):
 
 - Reequilibrar pesos (objetos, cuerpos, equipo).
 - Activar runas con sangre (1d4 daño, decisión consciente).
