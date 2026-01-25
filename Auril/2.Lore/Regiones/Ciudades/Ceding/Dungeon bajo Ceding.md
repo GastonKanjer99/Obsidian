@@ -204,7 +204,13 @@ Silencio incómodo. Fin de escena.
 #### Sala de Mecanismos (puzzle / trampa)
 
 > Un arco bajo da paso a una segunda cámara.  
-> El suelo desciende levemente hacia el centro, donde una losa de piedra cubierta de runas apagadas ocupa el corazón de la sala.
+> El suelo desciende levemente hacia el centro, donde un mecanismo misterioso ocupa el corazón de la sala.
+
+> El mecanismo central gira con dificultad.  
+> Cada vuelta emite un pulso sordo que recorre el suelo.
+> 
+> Las plataformas no están sincronizadas.  
+> Algo acá intenta mantenerse en pie… y no puede.
 
 > Alrededor, cuatro plataformas de piedra emergen del suelo, conectadas por canales tallados.  
 > Están secas.  
@@ -216,6 +222,18 @@ _(pausa)_
 > No hay enemigos.  
 > Pero la sala se siente **tensa**.  
 > Como si algo estuviera esperando que alguien cometa un error.
+
+Cuando entran:
+
+- Las 4 plataformas (Sellos) están:
+    
+    - 2 activas
+    - 1 inestable
+    - 1 apagada
+- El mecanismo central:
+    - gira lento
+    - emite un pulso cada ~6 segundos
+- Runas intermitentes, como un corazón cansado
 
 ##### Al observar las plataformas:
 
@@ -239,6 +257,14 @@ _(pausa)_
 > Sea lo que sea que este lugar contenía…  
 > ya no está siendo sostenido como antes.
 
+#### Disparador del combate
+
+El combate empieza cuando ocurre **una de estas cosas** (cualquiera):
+
+- pisan una plataforma
+- activan una runa
+- intentan forzar el mecanismo
+- pasan 1 minuto en la sala
 
 
 Acá metemos **interacción sin combate**.
