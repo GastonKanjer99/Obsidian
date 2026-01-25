@@ -320,6 +320,7 @@ Entonces:
     - una tirada de habilidad
     - o un intento de estabilización
 ---
+
 ###### OBJETIVO SECUNDARIO: ESTABILIZAR LOS SELLOS
 
 Cada plataforma puede activarse con una **acción**:
@@ -343,10 +344,61 @@ Opciones válidas:
 - **4 plataformas activas:**
     - el sistema entra en modo pasivo
     - el combate termina automáticamente en 1 ronda
-
- Esto incentiva dividirse y pensar.
-
 ---
+
+#### Forzar el sistema
+
+Si "fuerzan el sistema:"
+
+> Las runas reaccionan a su presencia.
+> Esto fue hecho para funcionar con precisión…  
+> pero todavía obedece a la voluntad.
+> Podrían intentar **entenderlo**.  
+> Podrían intentar **someterlo**.
+> Ninguna opción es segura.
+
+
+##### Opción 1 – Arcana / Religión (forzado)
+
+**Arcana o Religión DC 15** para:
+	- Entender parcialmente el sistema
+	- Usar conocimiento **incompleto**
+	- Activar redundancias sin respetar el diseño original
+
+Resultado
+
+- Éxito:
+    - El mecanismo se apaga
+    - El combate termina
+- Fallo:
+    - Pulso inmediato (1d6)
+    - Aparece un enemigo extra **o**
+    - Una plataforma queda inutilizada
+
+👉 Aunque tengan éxito:
+
+> algo queda mal
+
+
+##### Opción 2 – Fuerza bruta (muy mala idea, pero válida)
+
+**Athletics DC 16**. Puede ser grupal:
+- Trabar engranajes
+- Forzar palancas
+- Clavar algo en el mecanismo
+
+ Resultado
+
+- Éxito:
+    - Se detiene el mecanismo
+    - Todas las plataformas se apagan
+- Fallo:
+    - Explosión de energía
+    - 2d6 daño repartido (o 1d6 a todos cerca)
+
+Consecuencia asegurada:
+- El sistema queda **irreparable**
+- Nivel 3 va a ser **peor**
 
 #####  CONDICIONES DE VICTORIA
 
@@ -354,9 +406,11 @@ Opciones válidas:
 ✔️ **O** estabilizar 2+ plataformas y aguantar  
 ✔️ **O** apagar el mecanismo con sacrificio
 
+
+
 No hay “una correcta”.
 
-# CLÍMAX NARRATIVO (texto listo)
+##### CLÍMAX NARRATIVO (texto listo)
 
 Cuando termina:
 
@@ -368,11 +422,10 @@ Cuando termina:
 
 Dejá 3 segundos de silencio real en mesa.
 
-# CONSECUENCIAS (anotalas, no las expliques)
+##### CONSECUENCIAS (anotalas, no las expliques)
 
 - Si activaron plataformas con sangre → marca narrativa
 - Si forzaron el sistema → Nivel 3 es más inestable
-    
 - Si apagaron todo “bien” → descubren más lore
 
 ### Nivel 3 – El Corazón Olvidado
