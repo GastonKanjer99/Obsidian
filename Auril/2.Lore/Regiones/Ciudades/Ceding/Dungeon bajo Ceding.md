@@ -206,11 +206,6 @@ Silencio incómodo. Fin de escena.
 > Un arco bajo da paso a una segunda cámara.  
 > El suelo desciende levemente hacia el centro, donde un mecanismo misterioso ocupa el corazón de la sala.
 
-> El mecanismo central gira con dificultad.  
-> Cada vuelta emite un pulso sordo que recorre el suelo.
-> 
-> Las plataformas no están sincronizadas.  
-> Algo acá intenta mantenerse en pie… y no puede.
 
 > Alrededor, cuatro plataformas de piedra emergen del suelo, conectadas por canales tallados.  
 > Están secas.  
@@ -226,7 +221,6 @@ _(pausa)_
 Cuando entran:
 
 - Las 4 plataformas (Sellos) están:
-    
     - 2 activas
     - 1 inestable
     - 1 apagada
@@ -259,33 +253,33 @@ Cuando entran:
 
 #### Disparador del combate
 
+> El mecanismo central gira con dificultad.  
+> Cada vuelta emite un pulso sordo que recorre el suelo.
+> 
+> Las plataformas no están sincronizadas.  
+> Algo acá intenta mantenerse en pie… y no puede.
+
+**Un turno de observación** antes de que arranque el caos.
+
 El combate empieza cuando ocurre **una de estas cosas** (cualquiera):
 
 - pisan una plataforma
 - activan una runa
 - intentan forzar el mecanismo
-- pasan 1 minuto en la sala
+- pasan 5 minutos en la sala
+
+Entonces:
+
+> Las runas se encienden de golpe.  
+> El pulso se vuelve violento.
+> El mecanismo **reacciona**.
+
+**Enemigos:**
+- Ronda 1: 2 armaduras
+- Ronda 2: salen 2 esqueletos
+- Ronda 3: salen 2 esqueletos
 
 
-Acá metemos **interacción sin combate**.
-**La idea base (simple y efectiva):**
-- Cuatro plataformas de piedra rodeando una fosa poco profunda.
-- Cada una representa un “Sello”.
-- El sistema está desbalanceado.
-
-##### Opciones para resolverlo (todas válidas):
-
-- Reequilibrar pesos (objetos, cuerpos, equipo).
-- Activar runas con sangre (1d4 daño, decisión consciente).
-- Forzar un mecanismo → funciona, pero rompe algo (consecuencia futura).
-
-Frase clave:
-
-> “El sistema todavía funciona…  
-> pero ya no está completo.”
-
-👉 No hay “respuesta correcta”.  
-Cada elección **define cómo llega el Nivel 3**.
 
 ##### Encuentro controlado
 
