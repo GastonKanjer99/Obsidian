@@ -422,11 +422,7 @@ Cuando termina:
 
 Dejá 3 segundos de silencio real en mesa.
 
-##### CONSECUENCIAS  (anotalas, no las expliques)
-
-- Si activaron plataformas con sangre → marca narrativa
-- Si forzaron el sistema → Nivel 3 es más inestable
-- Si apagaron todo “bien” → descubren más lore
+ **[[Consecuencias mecanismo Dungeon bajo Ceding]]**
 
 
 
