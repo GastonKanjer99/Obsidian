@@ -273,13 +273,13 @@ Entonces:
 > El mecanismo **reacciona**.
 
 **Enemigos:**
-- Ronda 1: Animated Armor
+- Ronda 1: [[Animated Armor]]
 	- Posición inicial:
 	    - 1 cerca del mecanismo
 	    - 1 cerca de una plataforma opuesta
 	- Rol: anclas del combate, presión frontal
 	- No persiguen lejos del centro (defienden el sistema)
-- Ronda 2: salen 2 esqueletos desde el suelo cerca de plataformas inactivas
+- Ronda 2: salen 2 [[Skeletons]] desde el suelo cerca de plataformas inactivas
 - Ronda 3: salen 2 esqueletos
 	- Si el combate va muy fácil, hacelos aparecer juntos
 	- Si va duro, retrasá 1 ronda
@@ -422,11 +422,13 @@ Cuando termina:
 
 Dejá 3 segundos de silencio real en mesa.
 
-##### CONSECUENCIAS (anotalas, no las expliques)
+##### CONSECUENCIAS  (anotalas, no las expliques)
 
 - Si activaron plataformas con sangre → marca narrativa
 - Si forzaron el sistema → Nivel 3 es más inestable
 - Si apagaron todo “bien” → descubren más lore
+
+
 
 ### Nivel 3 – El Corazón Olvidado
 
