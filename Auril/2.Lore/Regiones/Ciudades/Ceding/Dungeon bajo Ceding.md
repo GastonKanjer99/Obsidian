@@ -1,10 +1,8 @@
 [[Ceding]] se construyó sobre ruinas mucho más viejas. Lo que los jugadores pensaban que eran simples túneles de contrabandistas son, en realidad, los restos de un santuario o fortaleza olvidada.
 - Algunos edificios se han ido hundiendo lentamente, y hay rumores de que “la tierra está hueca”.  
     Esto puede conectar con la anomalía mágica del mapa (👀 ¿quizás el origen de esa magia empieza acá?).
-## Estructura de la dungeon (para 2–3 sesiones)
 
-Mini arco, dividido en capas o “niveles”:
-###  Nivel 1 – Los Restos del Laberinto
+#  Nivel 1 – Los Restos del Laberinto
 
 - Ambiente húmedo y parcialmente colapsado.
 - Secciones de los antiguos túneles del minotauro mezcladas con estructuras de piedra más finas.
@@ -54,7 +52,7 @@ Cuando coloquen la tablilla y derroten al espectro:
 - **Daga con símbolo del Círculo** (sin valor mágico aún, pero con importancia narrativa).
 
 
-### Nivel 2 – La Cripta del Guardián
+# Nivel 2 – La Cripta del Guardián
 
 #### Transición desde el Nivel 1
 
@@ -73,8 +71,9 @@ Cuando coloquen la tablilla y derroten al espectro:
 - En el centro hay un **altar destrozado**, con rastros del sello que contenía al minotauro.
 - Los jugadores descubren inscripciones sobre una **“Magia de la Sangre” o “Sello de los Cuatro”**.
 
-### Estructura
-#### Antesala de Observación
+## Estructura
+
+### Antesala de Observación
 
 > El pasillo desemboca en una cámara amplia y silenciosa.  
 > Las paredes están cubiertas por murales tallados con una precisión que no vieron antes.  
@@ -200,8 +199,7 @@ Silencio incómodo. Fin de escena.
 - Detect Magic → Abjuración + Necromancia
 
 
-
-#### Sala de Mecanismos (puzzle / trampa)
+### Sala de Mecanismos (puzzle / trampa)
 
 > Un arco bajo da paso a una segunda cámara.  
 > El suelo desciende levemente hacia el centro, donde un mecanismo misterioso ocupa el corazón de la sala.
@@ -286,11 +284,96 @@ Entonces:
 	- Si el combate va muy fácil, hacelos aparecer juntos
 	- Si va duro, retrasá 1 ronda
 
-EL MECANISMO
+#### EL MECANISMO
 
-El **Mecanismo actúa siempre en Iniciativa 20**
+**Iniciativa 20 – Evento del Sistema (1d4)**
 
+###### 1️⃣ Pulso Arcano
 
+- **CON save DC 12**
+- Falla: **1d6 daño de fuerza**
+- Éxito: mitad
+> El aire vibra. El suelo responde.
+---
+
+###### 2️⃣ Plataforma Inestable
+
+- Elegí una plataforma al azar
+- Criatura encima: **DEX o STR DC 13**
+- Falla: prone + **1d6 daño contundente**
+
+---
+
+###### 3️⃣ Reactivación
+
+- Si hay skeletons caídos:
+    - **1 se levanta con 1 HP**
+- Si no:
+    - aparece un skeleton extra (máx. 4 activos)
+
+---
+
+###### 4️⃣ Silencio Breve (válvula de seguridad)
+
+- El mecanismo se detiene un instante
+- El **próximo PJ** tiene ventaja en:
+    - una tirada de habilidad
+    - o un intento de estabilización
+---
+###### OBJETIVO SECUNDARIO: ESTABILIZAR LOS SELLOS
+
+Cada plataforma puede activarse con una **acción**:
+
+Opciones válidas:
+
+- Arcana / Religión DC 13 
+- Colocar peso (equipo, cadáver, escudo)
+- Sangre (1d4 daño voluntario)
+
+---
+
+**Efectos**
+
+- **1 plataforma activa:**
+    - el mecanismo deja de reanimar skeletons
+- **2 plataformas activas:**
+    - Animated Armor tiene desventaja 1 ronda
+- **3 plataformas activas:**
+    - el pulso baja a 1d4 daño
+- **4 plataformas activas:**
+    - el sistema entra en modo pasivo
+    - el combate termina automáticamente en 1 ronda
+
+ Esto incentiva dividirse y pensar.
+
+---
+
+#####  CONDICIONES DE VICTORIA
+
+✔️ Derrotar a todos los enemigos  
+✔️ **O** estabilizar 2+ plataformas y aguantar  
+✔️ **O** apagar el mecanismo con sacrificio
+
+No hay “una correcta”.
+
+# CLÍMAX NARRATIVO (texto listo)
+
+Cuando termina:
+
+> El mecanismo se detiene con un chirrido seco.
+> Las runas se apagan una a una.
+> El silencio es pesado… incómodo.
+> Por primera vez desde que entraron,  
+> **el lugar deja de resistirse.**
+
+Dejá 3 segundos de silencio real en mesa.
+
+# CONSECUENCIAS (anotalas, no las expliques)
+
+- Si activaron plataformas con sangre → marca narrativa
+- Si forzaron el sistema → Nivel 3 es más inestable
+    
+- Si apagaron todo “bien” → descubren más lore
 
 ### Nivel 3 – El Corazón Olvidado
 
