@@ -73,8 +73,8 @@ Cuando coloquen la tablilla y derroten al espectro:
 - En el centro hay un **altar destrozado**, con rastros del sello que contenía al minotauro.
 - Los jugadores descubren inscripciones sobre una **“Magia de la Sangre” o “Sello de los Cuatro”**.
 
-#### Estructura
-##### Antesala de Observación
+### Estructura
+#### Antesala de Observación
 
 > El pasillo desemboca en una cámara amplia y silenciosa.  
 > Las paredes están cubiertas por murales tallados con una precisión que no vieron antes.  
@@ -89,19 +89,19 @@ _(pausa – dejalos mirar)_
 > A lo largo de la sala se repite el mismo símbolo, cuatro veces, siempre con pequeñas variaciones.  
 > En el centro hay un pedestal de piedra… vacío.
 
-#### Si investigan los murales:
+##### Si investigan los murales:
 
 > Las figuras humanas no atacan a la bestia.  
 > La sostienen.  
 > La contienen.
 
-#### Si notan el pedestal:
+##### Si notan el pedestal:
 
 > La superficie está gastada, como si algo hubiera descansado ahí durante mucho tiempo.  
 > Hay restos de energía residual… y marcas de haber sido retirado **a la fuerza**.
 
 
-#### Si alguien tira Historia / Arcana:
+##### Si alguien tira Historia / Arcana:
 
 - **Éxito DC 13**
     
