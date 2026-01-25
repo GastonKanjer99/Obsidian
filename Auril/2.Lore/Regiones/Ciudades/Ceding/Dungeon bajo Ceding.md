@@ -275,15 +275,23 @@ Entonces:
 > El mecanismo **reacciona**.
 
 **Enemigos:**
-- Ronda 1: 2 armaduras
-- Ronda 2: salen 2 esqueletos
+- Ronda 1: Animated Armor
+	- Posición inicial:
+	    - 1 cerca del mecanismo
+	    - 1 cerca de una plataforma opuesta
+	- Rol: anclas del combate, presión frontal
+	- No persiguen lejos del centro (defienden el sistema)
+- Ronda 2: salen 2 esqueletos desde el suelo cerca de plataformas inactivas
 - Ronda 3: salen 2 esqueletos
+	- Si el combate va muy fácil, hacelos aparecer juntos
+	- Si va duro, retrasá 1 ronda
+
+EL MECANISMO
+
+El **Mecanismo actúa siempre en Iniciativa 20**
 
 
 
-##### Encuentro controlado
-
-Esto planta la idea de que **algo está fallando hace tiempo**.
 ### Nivel 3 – El Corazón Olvidado
 
 - Sala grande, posiblemente parcialmente inundada o bajo tierra, con un **cristal o artefacto mágico** que late o emite energía.
