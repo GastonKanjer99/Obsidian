@@ -27,7 +27,7 @@ Si un PJ:
 
 No digas más.
 
-## Efectos a futuro (cuando VOS quieras)
+## Efectos a futuro
 
 Elegís **uno** cuando convenga narrativamente:
 
