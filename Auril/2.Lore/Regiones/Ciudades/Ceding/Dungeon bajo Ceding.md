@@ -52,7 +52,20 @@ Cuando coloquen la tablilla y derroten al espectro:
 - **Fragmento de tablilla** (artefacto clave para avanzar).
 - **Pergamino antiguo** con un hechizo de utilidad (Detectar Magia o Luz).
 - **Daga con símbolo del Círculo** (sin valor mágico aún, pero con importancia narrativa).
+
+
 ### Nivel 2 – La Cripta del Guardián
+
+#### Transición desde el Nivel 1
+
+> La escalera desciende más de lo que esperaban.  
+> El aire cambia: ya no huele a humedad estancada, sino a piedra vieja… y a algo metálico.  
+> No sangre fresca.  
+> Sangre **antigua**.
+
+> La arquitectura también cambia.  
+> Esto no fue excavado por una bestia.  
+> Fue diseñado.
 
 - Arquitectura más elaborada, con símbolos arcanos.
 - Puzzles o trampas (plataformas, runas, mecanismos de agua).
@@ -62,7 +75,49 @@ Cuando coloquen la tablilla y derroten al espectro:
 
 #### Estructura
 ##### Antesala de Observación
-Una sala relativamente segura, para bajar pulsaciones tras Nivel 1.
+
+> El pasillo desemboca en una cámara amplia y silenciosa.  
+> Las paredes están cubiertas por murales tallados con una precisión que no vieron antes.  
+> Figuras humanas, dispuestas en círculo, rodean a una bestia cornuda de gran tamaño.
+
+> No parece una escena de batalla.  
+> Parece una **ceremonia**.
+
+
+_(pausa – dejalos mirar)_
+
+> A lo largo de la sala se repite el mismo símbolo, cuatro veces, siempre con pequeñas variaciones.  
+> En el centro hay un pedestal de piedra… vacío.
+
+#### Si investigan los murales:
+
+> Las figuras humanas no atacan a la bestia.  
+> La sostienen.  
+> La contienen.
+
+#### Si notan el pedestal:
+
+> La superficie está gastada, como si algo hubiera descansado ahí durante mucho tiempo.  
+> Hay restos de energía residual… y marcas de haber sido retirado **a la fuerza**.
+
+
+#### Si alguien tira Historia / Arcana:
+
+- **Éxito DC 13**
+    
+    > Esto no era un templo de adoración.  
+    > Era un sistema de contención.
+    
+- **Éxito DC 18**
+    
+    > El diseño es redundante.  
+    > Si un sello fallaba, los otros compensaban.  
+    > Alguien pensó esto para que durara siglos.
+    
+
+> Pero algo acá… ya no está completo.
+
+
 **Elementos:**
 - Murales tallados: figuras humanas rodeando una bestia cornuda.
 - Cuatro símbolos repetidos (los futuros “Sellos”).
@@ -79,7 +134,6 @@ Una sala relativamente segura, para bajar pulsaciones tras Nivel 1.
 - Uno de los cuatro símbolos está dañado.
     
 - Si alguien lo examina:
-    
     > “No se rompió por desgaste. Fue forzado.”
 
 **Marcas de sangre seca**
