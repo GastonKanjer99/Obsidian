@@ -502,3 +502,25 @@ _(miralos uno por uno)_
 
 Silencio real en mesa. No hables 2–3 segundos.
 
+## Llegada
+
+> El descenso termina de golpe.  
+> No con un frenado elegante,  
+> sino con un impacto seco que resuena en la piedra.
+
+> La plataforma se detiene.
+
+> Frente a ustedes, la oscuridad no es uniforme.  
+> No es una cueva.
+> 
+> Es un espacio **delimitado**, profundo,  
+> donde la arquitectura pierde simetría  
+> y la piedra parece… adaptarse.
+
+> No hay puerta.  
+> No hay bienvenida.
+
+> Solo la certeza de que  
+> **ya no están en una dungeon**.
+
+> Están en lo que la dungeon estaba conteniendo.
