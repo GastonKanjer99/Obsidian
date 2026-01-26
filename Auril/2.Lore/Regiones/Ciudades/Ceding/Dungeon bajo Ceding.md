@@ -427,8 +427,7 @@ Dejá 3 segundos de silencio real en mesa.
 
 
 # Nivel 3 – El Corazón Olvidado
-
-## TRANSICIÓN AL NIVEL 3 — _El descenso forzado_
+## TRANSICIÓN AL NIVEL 3 
 
 > El mecanismo central, ahora en silencio, emite un último crujido grave.  
 > No como una máquina que se apaga…  
@@ -463,7 +462,7 @@ Respondé así:
 > Es un sistema de emergencia…  
 > activado **a la fuerza**.
 
-## El descenso
+### El descenso
 
 > Con un segundo estremecimiento, la plataforma comienza a bajar.  
 > No suave.  
@@ -502,7 +501,7 @@ _(miralos uno por uno)_
 
 Silencio real en mesa. No hables 2–3 segundos.
 
-## Llegada
+### Llegada
 
 > El descenso termina de golpe.  
 > No con un frenado elegante,  
