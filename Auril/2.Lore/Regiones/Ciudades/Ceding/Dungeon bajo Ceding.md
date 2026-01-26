@@ -575,3 +575,19 @@ Narración base:
 > Está **reacomodándose**.
 > 
 > Como si cada parte intentara compensar algo que ya no está.
+
+
+#### MECÁNICA GLOBAL DE LA ZONA (simple, repetible)
+
+Mientras estén en esta zona:
+
+- Cada vez que:
+    - se lanza un hechizo
+    - alguien cae a 0 HP
+    - alguien usa una acción muy ruidosa
+
+ Tirás **1d6**:
+
+- **1–2:** nada
+- **3–4:** pulso leve (1d4 daño CON save DC 12)
+- **5–6:** se activa una placa / aparece algo
