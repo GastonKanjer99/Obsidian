@@ -9,4 +9,4 @@ Luego de unas horas volvieron a la dungeon donde pelearon contra un espectro al 
 ## Eventos
 
 Los jugadores bajaron hacia en segundo nivel, atras suyo se cerró la puerta, exploraron la primer sala y luego se dirigieron hacia la sala del mecanismo, pisaron una plataforma, iniciaron el combate.
-Estaban por terminar el combate 
+Estaban por terminar el combate con todas las plataformas presionadas, pero en la última ronda, [[Astralon]] decidió atacar el mecanismo, logrando un impacto con éxito,
