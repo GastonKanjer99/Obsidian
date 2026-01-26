@@ -17,3 +17,5 @@ Si necesitás reforzar el momento, podés decir algo así (aunque sea retroactiv
 > 
 > Pero ahora está claro que  
 > **no fue diseñado para sobrevivir a esto**.
+
+## Sucesos
