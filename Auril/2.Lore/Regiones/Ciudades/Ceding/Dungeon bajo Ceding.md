@@ -426,11 +426,79 @@ Dejá 3 segundos de silencio real en mesa.
 
 
 
-### Nivel 3 – El Corazón Olvidado
+# Nivel 3 – El Corazón Olvidado
 
-- Sala grande, posiblemente parcialmente inundada o bajo tierra, con un **cristal o artefacto mágico** que late o emite energía.
-    
-- Ahí habita un **enemigo mayor o entidad vinculada a la anomalía** (un espectro antiguo, un sacerdote loco, o un elemental corrupto).
-    
-- Objetivo: sellar el artefacto, destruirlo, o tomarlo — cada opción puede tener consecuencias a futuro.
- 
+## TRANSICIÓN AL NIVEL 3 — _El descenso forzado_
+
+> El mecanismo central, ahora en silencio, emite un último crujido grave.  
+> No como una máquina que se apaga…  
+> sino como algo que **cede**.
+
+> Las runas del círculo se encienden una última vez, desincronizadas,  
+> y la losa bajo sus pies vibra.
+
+_(pausa)_
+
+> No es un temblor violento.  
+> Es un **desenganche**.
+
+> Con un golpe seco, la plataforma del centro desciende unos centímetros…  
+> y luego se detiene.
+
+> El aire cambia de inmediato.  
+> Más caliente.  
+> Más denso.  
+> Como si lo que estuviera abajo **hubiera estado esperando**.
+
+_(dejá que reaccionen)_
+
+Respondé así:
+
+> No sienten que el mecanismo esté funcionando correctamente.  
+> No hay ritmo.  
+> No hay control fino.
+> 
+> Esto no es un ascensor diseñado para usarse.
+> 
+> Es un sistema de emergencia…  
+> activado **a la fuerza**.
+
+## El descenso
+
+> Con un segundo estremecimiento, la plataforma comienza a bajar.  
+> No suave.  
+> No constante.
+
+> A veces se frena.  
+> A veces cae unos centímetros de golpe.
+
+> Las paredes pasan lento al principio…  
+> luego más rápido.
+
+> Las runas que venían desde arriba se vuelven irregulares.  
+> Algunas se apagan.  
+> Otras parpadean con símbolos que **no reconocen**.
+
+_(miralos uno por uno)_
+
+> Por primera vez desde que entraron a estas ruinas,  
+> el lugar **no parece resistirse**.
+
+> Parece…  
+> **retirarse**.
+
+> En mitad del descenso, el mecanismo emite un pulso.  
+> No de energía.  
+> De **presión**.
+
+> Sienten un peso en el pecho.  
+> No dolor.
+> 
+> Expectativa.
+
+> Como si algo allá abajo  
+> hubiera notado  
+> que el sistema ya no está completo.
+
+Silencio real en mesa. No hables 2–3 segundos.
+
