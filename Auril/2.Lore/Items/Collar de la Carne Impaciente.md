@@ -76,3 +76,7 @@ Mejor:
 - Reemplazarlos por colmillos de una bestia viva
 - Enterrarlos en tierra consagrada
 - O aceptar la maldición y dejar que evolucione (camino oscuro)
+
+
+### Portadores
+Ac
