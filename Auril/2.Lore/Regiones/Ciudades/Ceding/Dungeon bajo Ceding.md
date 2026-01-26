@@ -427,6 +427,7 @@ Dejá 3 segundos de silencio real en mesa.
 
 
 # Nivel 3 – El Corazón Olvidado
+
 ## TRANSICIÓN AL NIVEL 3 
 
 > El mecanismo central, ahora en silencio, emite un último crujido grave.  
@@ -525,3 +526,52 @@ Silencio real en mesa. No hables 2–3 segundos.
 > Están en lo que la dungeon estaba conteniendo.
 
 
+## NIVEL 3 — ESTRUCTURA GENERAL (FORZADO)
+
+### Tema central
+
+**Contención fallida por intervención externa.**
+
+No es caos total.  
+Es un sistema que:
+
+- sigue cumpliendo su función
+- pero ya no distingue entre “amenaza” y “usuario”
+
+### CAPAS DEL NIVEL 3 (overview)
+
+ **3 grandes secciones**, no son salas sueltas:
+
+- **Zona de Ingreso / Ajuste Violento**  
+- **Zona de Función Residual**  
+- **Zona del Núcleo y el Guardián**
+
+
+### ZONA 1 — INGRESO / AJUSTE VIOLENTO
+
+#### Propósito
+
+- Marcar el cambio de tono inmediatamente
+- Introducir combate rápido pero significativo
+- Mostrar que el sistema **reacciona** a la magia y al movimiento
+
+No es exploración lenta.  
+Es: _“Entraron y algo se activa mal”_.
+
+#### Arquitectura
+
+- Espacio amplio pero irregular
+- Paredes con:
+    - canaletas de energía
+    - placas móviles
+    - runas intermitentes 
+- El piso no es plano:
+    - escalonado
+    - con grietas profundas
+- Nada simétrico
+Narración base:
+
+> El lugar no está derrumbado.  
+> Está **reacomodándose**.
+> 
+> Como si cada parte intentara compensar algo que ya no está.
