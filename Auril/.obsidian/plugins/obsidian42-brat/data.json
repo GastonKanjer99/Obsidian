@@ -1,8 +1,13 @@
 {
   "pluginList": [
+    "Jareika/zoom-map",
     "javalent/calendarium"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "Jareika/zoom-map",
+      "version": "latest"
+    },
     {
       "repo": "javalent/calendarium",
       "version": "latest"
