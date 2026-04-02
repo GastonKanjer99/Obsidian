@@ -1,0 +1,33 @@
+{
+  "size": {
+    "w": 2048,
+    "h": 1536
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "z_Resources/Images/Peninsula_Grieta.jpg"
+  ],
+  "overlays": [],
+  "activeBase": "z_Resources/Images/Peninsula_Grieta.jpg",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {},
+  "textLayers": []
+}
