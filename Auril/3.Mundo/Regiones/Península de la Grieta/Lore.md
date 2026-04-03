@@ -1,0 +1,3 @@
+Una región donde la magia está rota…  
+y cada vez lo está más.
+La grieta está creciendo, y si no se detiene, va a afectar todo el continente.
