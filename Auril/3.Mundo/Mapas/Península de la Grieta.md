@@ -12,7 +12,7 @@ height: 560px
 width: 100%
 resizable: true
 resizeHandle: native     # left | right | both | native
-render: canvas           # or: dom
+render: dom           # or: dom
 
 # Responsive display (fit into width, no wheel/pinch/dblclick pan/zoom)
 responsive: false        # true → always fit; disables pan/zoom gestures
