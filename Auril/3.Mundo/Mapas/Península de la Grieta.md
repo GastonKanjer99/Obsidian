@@ -43,14 +43,16 @@ ZOOMMAP-DATA id=map-0
   "markers": [
     {
       "type": "pin",
-      "id": "marker_cm7on6",
-      "x": 0.23646004225408693,
-      "y": 0.6223615324277667,
+      "id": "marker_yft51l",
+      "x": 0.22413465711805555,
+      "y": 0.6484420211226852,
       "layer": "default",
       "link": "Ceding",
-      "iconKey": "flag",
+      "iconKey": "radial-balance",
       "tooltip": "Ceding",
-      "scaleLikeSticker": true
+      "scaleLikeSticker": true,
+      "iconColor": "#121212",
+      "tooltipAlwaysOn": true
     }
   ],
   "bases": [
