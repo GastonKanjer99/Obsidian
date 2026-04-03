@@ -40,7 +40,21 @@ ZOOMMAP-DATA id=map-0
       "locked": false
     }
   ],
-  "markers": [],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_gioxm0",
+      "x": 0.22334719711317721,
+      "y": 0.6494910336795989,
+      "layer": "default",
+      "link": "Ceding",
+      "iconKey": "pinRed",
+      "tooltip": "Ceding",
+      "tooltipAlwaysOn": true,
+      "scaleLikeSticker": true,
+      "iconColor": "#000000"
+    }
+  ],
   "bases": [
     "z_Resources/Images/Peninsula_Grieta.jpg"
   ],
