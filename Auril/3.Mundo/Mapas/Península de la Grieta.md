@@ -43,9 +43,9 @@ ZOOMMAP-DATA id=map-0
   "markers": [
     {
       "type": "pin",
-      "id": "marker_7weg4i",
-      "x": 0.2549699119448074,
-      "y": 0.6302382852296274,
+      "id": "marker_cm7on6",
+      "x": 0.23646004225408693,
+      "y": 0.6223615324277667,
       "layer": "default",
       "link": "Ceding",
       "iconKey": "flag",
