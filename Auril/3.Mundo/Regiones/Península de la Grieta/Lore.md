@@ -1,7 +1,13 @@
-Una región donde la magia está rota…  
+>Una región donde la magia está rota…  
 y cada vez lo está más.
 La grieta está creciendo, y si no se detiene, va a afectar todo el continente.
 Algo dentro de la grieta está “empujando” la disonancia hacia afuera
+
+## Origen real del desastre
+
+> El hechizo que creó la disonancia no fue obra de magos cualquiera.  
+> Fue un ritual del propio **[[Círculo de Sangre]]**.
+
 
 ## Estructura del arco (te lo dejo listo para jugar)
 
