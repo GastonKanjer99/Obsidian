@@ -53,6 +53,32 @@ ZOOMMAP-DATA id=map-0
       "scaleLikeSticker": true,
       "iconColor": "#121212",
       "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_3gr9kx",
+      "x": 0.6415979942077378,
+      "y": 0.26917704200352305,
+      "layer": "default",
+      "link": "Disonancia Magica",
+      "iconKey": "radial-balance",
+      "tooltip": "Corazón de la Disonancia Mágíca",
+      "scaleLikeSticker": true,
+      "tooltipAlwaysOn": true,
+      "iconColor": "#171717"
+    },
+    {
+      "type": "pin",
+      "id": "marker_d3c9b4",
+      "x": 0.7487595683396464,
+      "y": 0.8311673045559763,
+      "layer": "default",
+      "link": "Pantano",
+      "iconKey": "radial-balance",
+      "tooltip": "Hogar de la bruja del Pantano",
+      "scaleLikeSticker": true,
+      "iconColor": "#1f1f1f",
+      "tooltipAlwaysOn": true
     }
   ],
   "bases": [
