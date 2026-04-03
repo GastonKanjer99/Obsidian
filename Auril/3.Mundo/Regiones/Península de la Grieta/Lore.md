@@ -9,7 +9,7 @@ Algo dentro de la grieta está “empujando” la disonancia hacia afuera
 > Fue un ritual del propio **[[Círculo de Sangre]]**.
 
 
-## Estructura del arco (te lo dejo listo para jugar)
+## Estructura del arco 
 
 ### Fase 1 – “Algo no está bien”
 
