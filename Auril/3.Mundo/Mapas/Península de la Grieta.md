@@ -25,3 +25,44 @@ responsive: false        # true → always fit; disables pan/zoom gestures
 align: right             # left | center | right
 wrap: true               # wrap text; useful with left/right alignment
 ```
+%%
+ZOOMMAP-DATA id=map-0
+{
+  "size": {
+    "w": 2048,
+    "h": 1536
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "z_Resources/Images/Peninsula_Grieta.jpg"
+  ],
+  "overlays": [],
+  "activeBase": "z_Resources/Images/Peninsula_Grieta.jpg",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": [],
+  "secondScreen": {
+    "showGrids": true
+  }
+}
+/ZOOMMAP-DATA
+%%
+

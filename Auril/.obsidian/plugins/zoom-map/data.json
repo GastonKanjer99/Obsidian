@@ -33,7 +33,7 @@
   "forcePopoverWithoutModKey": true,
   "measureLineColor": "var(--text-accent)",
   "measureLineWidth": 2,
-  "storageDefault": "json",
+  "storageDefault": "note",
   "defaultWidthWrapped": "50%",
   "baseCollections": [],
   "pinPlaceOpensEditor": true,
@@ -55,7 +55,8 @@
       "travelPerDay": {
         "value": 8,
         "unit": "h"
-      }
+      },
+      "terrains": []
     }
   ],
   "defaultScaleLikeSticker": true,
