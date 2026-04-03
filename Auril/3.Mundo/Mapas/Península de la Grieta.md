@@ -43,16 +43,14 @@ ZOOMMAP-DATA id=map-0
   "markers": [
     {
       "type": "pin",
-      "id": "marker_gioxm0",
-      "x": 0.22334719711317721,
-      "y": 0.6494910336795989,
+      "id": "marker_7weg4i",
+      "x": 0.2549699119448074,
+      "y": 0.6302382852296274,
       "layer": "default",
       "link": "Ceding",
-      "iconKey": "pinRed",
+      "iconKey": "flag",
       "tooltip": "Ceding",
-      "tooltipAlwaysOn": true,
-      "scaleLikeSticker": true,
-      "iconColor": "#000000"
+      "scaleLikeSticker": true
     }
   ],
   "bases": [

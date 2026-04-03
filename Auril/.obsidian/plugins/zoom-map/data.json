@@ -1,6 +1,15 @@
 {
   "icons": [
     {
+      "key": "flag",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20version%3D%221.0%22%20width%3D%22512.000000pt%22%20height%3D%22512.000000pt%22%20viewBox%3D%220%200%20512.000000%20512.000000%22%20preserveAspectRatio%3D%22xMidYMid%20meet%22%20fill%3D%22%23b0b0b0%22%3E%0A%0A%3Cg%20transform%3D%22translate(0.000000%2C512.000000)%20scale(0.100000%2C-0.100000)%22%20fill%3D%22%23000000%22%20stroke%3D%22none%22%3E%0A%3Cpath%20d%3D%22M720%202560%20l0%20-2560%20150%200%20150%200%200%201305%200%201305%201686%202%201686%203%20-503%20534%20c-277%20293%20-505%20537%20-507%20541%20-2%204%20226%20250%20506%20546%20l508%20539%20-1688%203%20-1688%202%200%20170%200%20170%20-150%200%20-150%200%200%20-2560z%22%2F%3E%0A%3C%2Fg%3E%0A%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "defaultLink": "",
+      "inCollections": true
+    },
+    {
       "key": "pinBlue",
       "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%3E%0A%20%20%3Cpath%20fill%3D%22%233c62d2%22%20d%3D%22M12%202a7%207%200%200%200-7%207c0%205.25%207%2013%207%2013s7-7.75%207-13a7%207%200%200%200-7-7m0%209.5A2.5%202.5%200%201%201%2012%206.5a2.5%202.5%200%200%201%200%205Z%22%2F%3E%0A%3C%2Fsvg%3E",
       "size": 24,
