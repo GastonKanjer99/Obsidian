@@ -547,7 +547,7 @@ Es un sistema que:
 - **Zona del Núcleo y el Guardián**
 
 
-### ZONA 1 — INGRESO / AJUSTE VIOLENTO
+### BLOQUE 1 – INGRESO
 
 #### Propósito
 
@@ -565,15 +565,16 @@ Es: _“Entraron y algo se activa mal”_.
     - canaletas de energía
     - placas móviles
     - runas intermitentes 
+    - ángulos raros (no 90°)
+    - partes lisas, partes erosionadas, partes “rehechas”
 - El piso no es plano:
     - escalonado
     - con grietas profundas
 - Nada simétrico
 Narración base:
 
-> El lugar no está derrumbado.  
+>“Esto no fue construido así.  
 > Está **reacomodándose**.
-> 
 > Como si cada parte intentara compensar algo que ya no está.
 
 
