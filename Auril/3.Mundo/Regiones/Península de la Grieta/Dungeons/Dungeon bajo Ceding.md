@@ -619,6 +619,47 @@ Frase:
 
 > “No lo escuchan… lo sienten.”
 
+# INTERACCIÓN (sin mecánicas explícitas)
+
+No expliques reglas. Mostrá respuestas.
+
+---
+
+## Si tocan una pared
+
+> la superficie cede apenas  
+> y vuelve a su lugar  
+> como si no fuera completamente sólida
+
+---
+
+## Si pisan una grieta
+
+> la luz se intensifica un segundo  
+> y luego vuelve a apagarse
+
+---
+
+## Si usan magia (MUY IMPORTANTE por el wizard)
+
+> la runa más cercana responde primero  
+> no al hechizo…  
+> a quien lo lanzó
+
+# COMBATE (pulido estético)
+
+Los Fragmentos del Sistema no aparecen “de golpe”.
+
+### Aparición:
+
+> Una placa se separa de la pared.
+> No cae.
+> Se mantiene suspendida… un instante…  
+> y luego gira hacia ustedes.
+
+> Otra sección del suelo se eleva.
+> Las partes no encajan.
+> Se ensamblan igual.
 
 #### MECÁNICA GLOBAL DE LA ZONA (simple, repetible)
 
