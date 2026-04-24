@@ -646,9 +646,9 @@ No expliques reglas. Mostrá respuestas.
 > no al hechizo…  
 > a quien lo lanzó
 
-# COMBATE (pulido estético)
+# COMBATE
 
-Los Fragmentos del Sistema no aparecen “de golpe”.
+Los 3 [[Fragmentos del Sistema]] no aparecen “de golpe”.
 
 ### Aparición:
 
@@ -675,3 +675,50 @@ Mientras estén en esta zona:
 - **1–2:** nada
 - **3–4:** pulso leve (1d4 daño CON save DC 12)
 - **5–6:** se activa una placa / aparece algo
+
+
+# DETALLES
+
+Durante el combate:
+
+- una pared se mueve levemente
+- una runa cambia de forma
+- una grieta se abre un poco más
+
+Nada mecánico.  
+Todo sensación.
+
+
+# POST-COMBATE (MUY IMPORTANTE)
+
+No cierres con “ok ganaron”.
+
+Leé esto:
+
+> Cuando la última de esas cosas se desarma,  
+> no cae como un enemigo derrotado.
+> Se deshace.
+> Como si cada parte volviera a un lugar que ya no existe.
+
+_(pausa)_
+
+> El lugar no se calma.
+> Solo deja de reaccionar… por ahora.
+
+Si investigan:
+
+- Arcana DC 12:
+    > “El sistema responde a estímulos, no a intrusos.”
+- DC 16:
+    > “Algo fue quitado de la ecuación.”
+
+## Cierre ideal del Bloque 1
+
+Algo así:
+
+> El lugar no vuelve a la calma.
+> Solo deja de reaccionar.
+> Como si hubiera decidido  
+> que por ahora…  
+> no vale la pena.
+
