@@ -562,8 +562,6 @@ Es: _“Entraron y algo se activa mal”_.
 
 - Espacio amplio pero irregular
 - Paredes con:
-    - canaletas de energía
-    - placas móviles
     - runas intermitentes 
     - ángulos raros (no 90°)
     - partes lisas, partes erosionadas, partes “rehechas”
@@ -581,6 +579,45 @@ Narración base:
 
 ##  Elementos visuales 
 
+### Canales abiertos
+
+- surcos en el piso y paredes
+- secos… pero con restos oscuros
+- algunos vibran levemente
+
+### Runas defectuosas
+
+- algunas claras
+- otras incompletas
+- otras “reescritas encima”
+
+### Grietas con luz
+
+- no oscuras
+- **emiten luz tenue**
+- como si la energía se escapara
+
+
+# SONIDO Y ATMÓSFERA
+
+## Base constante
+
+- zumbido grave (casi inaudible)
+- como maquinaria lejana
+## Intermitente
+
+- clics
+- crujidos
+- pequeñas vibraciones
+## Evento ocasional
+
+- un “pulso” que:
+    - no hace ruido fuerte
+    - pero se siente en el cuerpo
+
+Frase:
+
+> “No lo escuchan… lo sienten.”
 
 
 #### MECÁNICA GLOBAL DE LA ZONA (simple, repetible)
