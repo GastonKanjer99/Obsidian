@@ -577,6 +577,11 @@ Narración base:
 > Está **reacomodándose**.
 > Como si cada parte intentara compensar algo que ya no está.
 
+---
+
+##  Elementos visuales 
+
+
 
 #### MECÁNICA GLOBAL DE LA ZONA (simple, repetible)
 
