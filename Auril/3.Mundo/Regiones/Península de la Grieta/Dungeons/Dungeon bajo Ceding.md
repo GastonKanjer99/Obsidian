@@ -724,6 +724,13 @@ Algo así:
 
 # BLOQUE 2 – CÁMARA DE REDISTRIBUCIÓN
 
+>El sistema intenta redistribuir energía…  
+> pero sin el control del Nivel 2, lo hace de forma peligrosa.
+
+Los jugadores están en el medio de:
+- energía que se mueve
+- enemigos que empujan
+- un sistema que **puede ser manipulado**
 ##  Rol de esta cámara
 
 - Introducir **decisiones con consecuencias**
@@ -776,12 +783,15 @@ Criaturas en esa zona:
 - el posicionamiento importe
 - el combate sea dinámico
 - no puedan quedarse quietos
+- Esto afecta a **todos** (PJ y enemigos)
 
 # ENCUENTRO
 
+👉 **El combate NO se gana solo matando.**  
+👉 Se gana cuando el sistema se estabiliza (aunque sea parcialmente).
 ## Enemigos
 
-### 🧱 1 Núcleo Defensivo (enemigo principal)
+### 1 Núcleo Defensivo (enemigo principal)
 
 Podés usar:
 
@@ -795,7 +805,7 @@ Rol:
 
 ---
 
-### 🩸 2–3 Conductores (enemigos menores)
+###  2–3 Conductores (enemigos menores)
 
 Base:
 
@@ -821,6 +831,10 @@ Rol:
 - buscan empujar a PJ hacia zonas peligrosas
 - no tankean
 
+#### Empuje
+- ataque normal
+- si impacta: STR save DC 12 o empujado 3 m
+- Objetivo: tirar a los PJ en zonas activas
 # INTERACCIÓN (lo que hace esta cámara especial)
 
 Los jugadores pueden intervenir:
@@ -837,3 +851,91 @@ Los jugadores pueden intervenir:
 
 Fallo:  
 👉 el sistema responde mal (doble pulso o zona inesperada)
+
+## Acción: Sobrecargar manualmente
+
+- sacrificio de 1d6 HP
+- elegís una zona
+
+Apaga otra zona por 1 ronda
+
+## Acción: Forzar válvula
+
+- Athletics DC 14
+
+Éxito:
+
+- bloqueás una zona por 2 rondas
+
+Fallo:
+
+- pulso inmediato
+
+# CÓMO HACERLO ENTENDIBLE EN MESA
+
+No expliques reglas. Mostrá pistas:
+
+---
+
+### Cuando alguien mira el sistema:
+
+> “Las válvulas no están rotas.  
+> Están descoordinadas.”
+
+---
+
+### Cuando alguien falla una tirada:
+
+> “El flujo se descontrola más.”
+
+---
+
+### Cuando alguien acierta:
+
+> “Por un segundo… el sistema responde como debería.”
+
+
+# CONDICIÓN DE VICTORIA 
+
+El encuentro termina cuando se cumple UNA de estas:
+---
+
+##  OPCIÓN A – Control parcial (la ideal)
+
+- activan correctamente **2 acciones exitosas seguidas**  
+    (redirigir o bloquear)
+
+Resultado:  
+👉 el sistema se estabiliza lo suficiente  
+👉 los enemigos se desactivan
+
+---
+
+## ✔️ OPCIÓN B – Destrucción
+
+- matan todos los enemigos
+
+Resultado:  
+👉 el sistema queda activo pero inestable  
+👉 Nivel 3 empeora
+
+---
+
+## ✔️ OPCIÓN C – Sobrecarga
+
+- usan la acción de sangre 2 veces
+
+Resultado:  
+👉 el sistema se apaga temporalmente  
+👉 pero queda marcado como “dañado”
+
+# FINAL DEL ENCUENTRO
+
+Cuando termina:
+
+> Las válvulas se detienen una a una.
+> El flujo no desaparece.
+> Solo deja de moverse.
+
+> Como si el sistema hubiera decidido  
+> que ya no puede seguir compensando.
