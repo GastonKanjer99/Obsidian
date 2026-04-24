@@ -722,3 +722,118 @@ Algo así:
 > que por ahora…  
 > no vale la pena.
 
+# BLOQUE 2 – CÁMARA DE REDISTRIBUCIÓN
+
+##  Rol de esta cámara
+
+- Introducir **decisiones con consecuencias**
+- Hacer que el entorno sea más peligroso que los enemigos
+- Mostrar cómo el sistema intentaba **mantener el equilibrio**
+
+
+# ESTÉTICA (lo primero que ven)
+
+> El pasaje se abre hacia una cámara más amplia… pero no uniforme.
+
+> El suelo está dividido por canales profundos que conectan distintas secciones de la sala.  
+> No son decorativos.
+> 
+> Son conductos.
+
+> En las paredes, enormes válvulas de piedra y metal laten a ritmos distintos.  
+> Algunas responden.  
+> Otras… no.
+
+> En el centro, una estructura elevada:  
+> no es un altar.
+> Es un **distribuidor**.
+
+# MECÁNICA CENTRAL (simple pero potente)
+
+##  Flujo de Energía
+
+La sala tiene **3 zonas activas** (A, B, C):
+
+Cada ronda (iniciativa 20):
+
+👉 **Una zona se sobrecarga** (rotando o al azar)
+
+Esa zona:
+- emite luz
+- vibra
+- se vuelve peligrosa
+
+## Efecto de zona sobrecargada
+
+Criaturas en esa zona:
+
+- **CON save DC 13**
+- fallo: 2d6 daño (fuerza o necrótico)
+- éxito: mitad
+
+ Esto hace que:
+
+- el posicionamiento importe
+- el combate sea dinámico
+- no puedan quedarse quietos
+
+# ENCUENTRO
+
+## Enemigos
+
+### 🧱 1 Núcleo Defensivo (enemigo principal)
+
+Podés usar:
+
+- **Helmed Horror (ajustado)**  
+
+Rol:
+
+- lento
+- resistente
+- ancla del combate
+
+---
+
+### 🩸 2–3 Conductores (enemigos menores)
+
+Base:
+
+- cultists deformados  
+    o
+- esqueletos reforzados
+
+Rol:
+
+- se mueven rápido
+- empujan
+- molestan
+
+# COMPORTAMIENTO
+
+### Núcleo Defensivo:
+
+- se queda cerca del centro
+- ataca a quien interactúe con el sistema
+
+### Conductores:
+
+- buscan empujar a PJ hacia zonas peligrosas
+- no tankean
+
+# INTERACCIÓN (lo que hace esta cámara especial)
+
+Los jugadores pueden intervenir:
+
+---
+
+## 🔧 Acción: Redirigir energía
+
+- Arcana / Inteligencia DC 13
+- o usar herramientas / lógica
+
+Éxito:  
+👉 elegís qué zona se sobrecarga en la próxima ronda
+
+Fallo:  
+👉 el sistema responde mal (doble pulso o zona inesperada)
