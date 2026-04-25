@@ -949,3 +949,82 @@ Cuando termina:
 - Generar tensión sin combate obligatorio
 - Ofrecer **dos formas de salir**: calmar o romper
 - Preparar la pelea del Guardián
+
+
+> La cámara está intacta.  
+> No hay grietas ni placas sueltas.
+> 
+> Las paredes están cubiertas de nombres.
+> 
+> No parecen epitafios.  
+> Parecen… **registros**.
+
+_(pausa)_
+
+> Entre ellos, algunos están marcados con un símbolo distinto.  
+> Más reciente.  
+> Más agresivo.
+
+
+## Mecánica central (muy clara)
+
+### 🔁 Rondas de Eco (iniciativa 20)
+
+Cada ronda:
+
+1. Se activa **1 Placa de Recuerdo** (A/B/C)
+2. Genera:
+    - **Un Eco** (visual/voz)
+    - **Un efecto leve** (ver abajo)
+
+## Las 3 Placas (lo importante)
+
+### A) **Placa del Juramento** (sistema original)
+
+**Eco dice:**
+
+> “Sostener el flujo.”  
+> “Turnos asignados.”  
+> “El Guardián acepta.”
+
+**Efecto:**
+
+- Zona tranquila: ventaja a una tirada de habilidad ese turno
+
+**Lectura:**
+
+- Orden, método, sacrificio **estructurado**
+
+### B) **Placa de la Intervención** (Círculo)
+
+**Eco dice:**
+
+> “Más rápido.”  
+> “La sangre alcanza.”  
+> “Reducir redundancias.”
+
+**Efecto:**
+
+- Pulso leve: CON DC 12 → 1d4 daño (todos en 3 m)
+
+**Lectura:**
+
+- Alguien **reescribió** el sistema
+
+---
+
+### C) **Placa del Fallo**
+
+**Eco dice:**
+
+> “No compensa.”  
+> “El flujo se pierde.”  
+> “No es suficiente…”
+
+**Efecto:**
+
+- Terreno difícil en un área o desventaja a la próxima tirada
+
+**Lectura:**
+
+- Consecuencia directa de la intervención
