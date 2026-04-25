@@ -1292,3 +1292,90 @@ Si investigan el símbolo intrusivo:
 > 
 > Y los símbolos más recientes…  
 > también.
+
+
+# CÁMARA DE FALLO
+
+## 🎯 Rol de esta cámara
+
+- Mostrar qué pasa cuando el sistema se rompe
+- Meter combate más exigente
+- Reflejar directamente la intervención del Círculo
+- Preparar emocionalmente para el Guardián
+
+---
+
+# 🎨 ESTÉTICA (entrada)
+
+> El cambio es inmediato.
+> 
+> No hay transición suave.
+> 
+> La siguiente cámara… está mal.
+
+_(pausa)_
+
+> Las paredes no están agrietadas.  
+> Están **abiertas**.
+> 
+> Como si el lugar hubiera sido forzado desde adentro.
+
+> Canales de energía atraviesan el suelo…  
+> pero no siguen un patrón.
+> 
+> Se cruzan.  
+> Se cortan.  
+> Se desbordan.
+
+> El aire vibra con una presión irregular.  
+> No constante.
+> 
+> Como un latido… que falla.
+
+# ⚙️ MECÁNICA CENTRAL — INESTABILIDAD ACTIVA
+
+Acá no hay control limpio como en Redistribución.
+
+👉 Hay **fallos aleatorios controlados por vos**
+
+---
+
+## 🔥 Cada ronda (iniciativa 20)
+
+Tirás **1d6**:
+
+### 1–2 → Pulso violento
+
+- CON DC 13
+- 2d6 daño fuerza
+- éxito: mitad
+
+---
+
+### 3–4 → Ruptura de suelo
+
+- una zona colapsa parcialmente
+- DEX DC 13
+- fallo: prone + 1d6 daño
+
+---
+
+### 5 → Descarga dirigida
+
+- una línea de energía atraviesa la sala
+- los que estén en línea:
+    - DEX DC 13
+    - 2d6 daño
+
+---
+
+### 6 → Silencio breve
+
+- el sistema se “reinicia”
+- nadie recibe daño
+- ventaja a la próxima acción importante
+
+---
+
+👉 IMPORTANTE:  
+Esto afecta a todos (enemigos incluidos)
