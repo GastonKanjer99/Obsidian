@@ -1118,6 +1118,29 @@ Son:
 
 ### C) **Placa del Fallo**
 
+### Visual:
+
+- grietas que atraviesan el símbolo central
+- partes erosionadas
+- canales cortados
+
+### Luz:
+
+- intermitente
+- a veces no hay
+
+### Sensación:
+
+> agotamiento  
+> colapso  
+> algo que no alcanzó
+
+### Detalle clave:
+
+- algunos nombres están incompletos
+- o directamente faltan
+
+
 **Eco dice:**
 
 > “No compensa.”  
