@@ -795,7 +795,7 @@ Criaturas en esa zona:
 
 Podés usar:
 
-- **Helmed Horror (ajustado)**  
+- [[Helmed Horror]] (ajustado) 
 
 Rol:
 
@@ -1157,7 +1157,7 @@ Son:
 
 ## Aparición de Ecos
 
-- Al activarse cada placa, aparece 1 **Eco** (espectral tenue)
+- Al activarse cada placa, aparece 1 **Eco** ([[Specter]])
 - No ataca de inicio
 - Se acerca a quien interactúe con su placa
 
@@ -1406,7 +1406,7 @@ Es:
 ### Base mecánica (simple para vos)
 
 Usá como base:  
-👉 **Ogre** o **Minotaur nerfeado**
+👉 **[[Ogre]]** o **Minotaur nerfeado**
 
 Pero describilo como:
 
