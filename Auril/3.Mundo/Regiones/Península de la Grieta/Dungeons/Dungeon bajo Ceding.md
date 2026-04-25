@@ -1516,3 +1516,57 @@ Cuando cae la aberración:
 > 
 > Solo pierde…  
 > una forma más de intentar arreglarse.
+
+
+# TRANSICIÓN A LA SALA DEL GUARDIÁN (texto listo)
+
+> El pasaje siguiente no está roto.
+> 
+> Está… despejado.
+
+_(pausa)_
+
+> No hay restos.  
+> No hay placas sueltas.
+> 
+> El sistema deja de fallar de golpe.
+> 
+> Como si esta parte…  
+> **no pudiera permitirse fallar**.
+
+---
+
+> La cámara se abre lentamente ante ustedes.
+> 
+> Más grande que las anteriores.
+> 
+> No caótica.  
+> No reparada.
+> 
+> **Diseñada.**
+
+---
+
+> En el centro… algo se mueve.
+
+_(no lo describas completo todavía)_
+
+---
+
+> No como una criatura.
+> 
+> Como una función.
+
+---
+
+_(miralos)_
+
+> Y por primera vez desde que bajaron…  
+> el sistema no reacciona a ustedes.
+
+_(pausa)_
+
+> Reacciona a **eso**.
+
+> Una cadena arcana vibra…  
+> y se tensa.
