@@ -1028,3 +1028,118 @@ Cada ronda:
 **Lectura:**
 
 - Consecuencia directa de la intervención
+
+## Aparición de Ecos
+
+- Al activarse cada placa, aparece 1 **Eco** (espectral tenue)
+- No ataca de inicio
+- Se acerca a quien interactúe con su placa
+
+---
+
+##  Interacción (cómo “se resuelve”)
+
+Los jugadores pueden, como acción:
+
+### ✔️ **Sintonizar (Arcana/Religión DC 13)**
+
+- Calman esa placa por 2 rondas
+- El eco se vuelve cooperativo (susurra info útil)
+
+### ✔️ **Reconocer 
+
+- Repetir/validar frases (“sostener el flujo”, “turnos”)
+- Si encaja con la placa → cuenta como éxito automático
+
+### ✔️ **Ignorar**
+
+- Sigue el ciclo, sube la tensión
+
+###  **Romper/Atacar**
+
+- La placa se activa permanentemente
+- Spawnea 2 Ecos hostiles
+
+# 🧠 TIP CLAVE 
+
+Si ves que los jugadores:
+
+- no entienden
+- solo pegan
+- se traban
+
+👉 hacé que un eco diga:
+
+> “No lo rompas…  
+> seguí el flujo…”
+
+Listo.  
+Ya los guiaste sin explicar reglas.
+
+---
+
+## ⚔️ Combate (solo si escalan mal)
+
+### Enemigos
+
+- 3–4 **Ecos Manifestados**  
+    (usá **Specter** o **Shadow** nerfeados: -HP, daño moderado)
+
+### Comportamiento
+
+- No focus fire
+- Intentan separar / asustar
+- Frases durante combate:
+    
+    > “No era para ustedes…”  
+    > “Mantener… el flujo…”
+
+---
+
+## 🏁 Condición de salida 
+
+La sala se “resuelve” cuando:
+
+### ✔️ Opción 1 — **Calma**
+
+- Sintonizan o reconocen **2 placas distintas**
+- Resultado:
+    - los ecos se disipan
+    - info más clara del Círculo
+    - sin combate o combate leve
+
+### ✔️ Opción 2 — **Fuerza**
+
+- Destruyen ecos/placas
+- Resultado:
+    - salen igual
+    - pero el Nivel 3 se vuelve más hostil (marcá +1 pulso en la próxima zona)
+
+---
+
+## 🧩 Revelación del Círculo (sutil pero firme)
+
+Si investigan el símbolo intrusivo:
+
+- **DC 13:**
+    
+    > “Esto no es parte del diseño original.”
+    
+- **DC 16:**
+    
+    > “Se añadió después… para simplificar el sistema.”
+    
+- **DC 18:**
+    
+    > “Reemplaza método por sangre. Funciona… peor.”
+
+## Cierre (texto)
+
+> Los ecos no desaparecen de golpe.
+> 
+> Se apagan… como si ya no hicieran falta.
+> 
+> Los nombres quedan.
+> 
+> Y los símbolos más recientes…  
+> también.
