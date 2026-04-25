@@ -951,20 +951,45 @@ Cuando termina:
 - Preparar la pelea del Guardián
 
 
-> La cámara está intacta.  
-> No hay grietas ni placas sueltas.
+> El pasaje se abre hacia una cámara silenciosa.
 > 
-> Las paredes están cubiertas de nombres.
+> A diferencia del resto del nivel…  
+> esta no está desarmándose.
 > 
-> No parecen epitafios.  
-> Parecen… **registros**.
+> Está… intacta.
 
 _(pausa)_
 
-> Entre ellos, algunos están marcados con un símbolo distinto.  
-> Más reciente.  
-> Más agresivo.
+> Las paredes están cubiertas de inscripciones.  
+> No símbolos arcanos complejos.
+> 
+> Nombres.
 
+> Cientos.
+
+> Algunos tachados.  
+> Otros marcados con un símbolo circular atravesado por líneas.
+
+# INTERVENCIÓN DEL CÍRCULO (sutil pero clara)
+
+En la sala hay:
+
+### Símbolos distintos
+
+- no coinciden con los del sistema original
+- están **encima** de las inscripciones
+- hechos después
+
+Arcana / Investigación DC 13:
+
+> “Estos símbolos no forman parte del diseño original.”
+
+DC 16:
+
+> “Alguien modificó el sistema… usando sangre como catalizador.”
+
+👉 No decís “Círculo de Sangre”.  
+Pero ya está implícito.
 
 ## Mecánica central (muy clara)
 
@@ -977,9 +1002,62 @@ Cada ronda:
     - **Un Eco** (visual/voz)
     - **Un efecto leve** (ver abajo)
 
-## Las 3 Placas (lo importante)
 
-### A) **Placa del Juramento** (sistema original)
+## Las 3 Placas 
+
+## Forma base (común a todas)
+
+- **Tamaño:** ~1.5–2 metros de diámetro o ancho
+- **Altura:** ligeramente elevadas del suelo (5–10 cm)
+- **Forma:** circular u octogonal (coherente con el nivel anterior)
+
+No son botones.  
+Son:
+
+> **nodos del sistema**
+
+
+## Material
+
+- Piedra lisa pero **no natural**
+- Superficie:
+    - pulida en el centro
+    - erosionada en los bordes
+- Incrustaciones:
+    - vetas metálicas finas
+    - canales grabados (como circuitos)
+
+ Pensá mezcla de:
+
+- altar
+- máquina
+- runa
+
+- círculos concéntricos con:
+    - nombres
+    - marcas
+    - pequeñas runas
+
+
+### A) **Placa del Juramento** 
+
+### Visual:
+
+- líneas limpias
+- simetría clara
+- runas completas
+- nombres bien alineados
+
+### Luz:
+
+- tenue, cálida, estable
+
+### Sensación:
+
+> orden  
+> propósito  
+> control
+
 
 **Eco dice:**
 
@@ -997,6 +1075,24 @@ Cada ronda:
 
 ### B) **Placa de la Intervención** (Círculo)
 
+### Visual:
+
+- símbolos **superpuestos**
+- cortes irregulares en la piedra
+- grabados hechos “encima” de otros
+
+### Luz:
+
+- roja / carmesí
+- pulsante, inestable
+
+### Sensación:
+
+> urgencia  
+> intervención  
+> arrogancia
+
+
 **Eco dice:**
 
 > “Más rápido.”  
@@ -1010,6 +1106,13 @@ Cada ronda:
 **Lectura:**
 
 - Alguien **reescribió** el sistema
+
+### Detalle clave:
+
+- los nombres cercanos están:
+    - tachados
+    - reescritos
+    - o agrupados
 
 ---
 
@@ -1039,12 +1142,35 @@ Cada ronda:
 
 ##  Interacción (cómo “se resuelve”)
 
+Deciles algo así:
+
+> “Sentís que esto no está roto…  
+> está descoordinado.
+> 
+> Si alguien intenta entender cómo funcionaba  
+> o interactuar con cuidado…  
+> podría estabilizar una parte.”
+
 Los jugadores pueden, como acción:
 
 ### ✔️ **Sintonizar (Arcana/Religión DC 13)**
 
 - Calman esa placa por 2 rondas
 - El eco se vuelve cooperativo (susurra info útil)
+
+Cuando un jugador dice algo tipo:
+
+- “quiero examinar la placa”
+- “quiero ver cómo funciona”
+- “intento replicar lo que hacía antes”
+- “quiero canalizar magia ahí”
+- “trato de seguir el patrón”
+
+👉 ESO ES SINTONIZAR
+
+Ahí vos pedís:
+
+👉 Arcana / Religión / Inteligencia DC 13
 
 ### ✔️ **Reconocer 
 
