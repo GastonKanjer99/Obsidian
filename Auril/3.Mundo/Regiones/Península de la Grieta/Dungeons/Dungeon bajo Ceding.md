@@ -1332,7 +1332,7 @@ _(pausa)_
 > 
 > Como un latido… que falla.
 
-# ⚙️ MECÁNICA CENTRAL — INESTABILIDAD ACTIVA
+# MECÁNICA CENTRAL — INESTABILIDAD ACTIVA
 
 Acá no hay control limpio como en Redistribución.
 
@@ -1340,7 +1340,7 @@ Acá no hay control limpio como en Redistribución.
 
 ---
 
-## 🔥 Cada ronda (iniciativa 20)
+## Cada ronda (iniciativa 20)
 
 Tirás **1d6**:
 
@@ -1379,3 +1379,140 @@ Tirás **1d6**:
 
 👉 IMPORTANTE:  
 Esto afecta a todos (enemigos incluidos)
+
+# ⚔️ ENCUENTRO
+
+Este es el combate más pesado hasta ahora.
+
+---
+
+## 🧬 Enemigo principal — Aberración del Flujo
+
+### Qué es
+
+> Un intento fallido del sistema de crear un nuevo “ancla”
+
+No es natural.  
+No es invocado.
+
+Es:
+
+- partes del sistema
+- energía arcana
+- restos orgánicos
+
+---
+
+### Base mecánica (simple para vos)
+
+Usá como base:  
+👉 **Ogre** o **Minotaur nerfeado**
+
+Pero describilo como:
+
+- cuerpo incompleto
+- partes flotantes
+- energía atravesándolo
+- movimientos torpes pero violentos
+
+
+### Habilidad clave
+
+#### 💥 Sobrecarga
+
+Cada 2 rondas:
+
+- emite pulso propio
+- 1d6 daño en área cercana
+
+👉 stackea con el entorno → tensión alta
+
+---
+
+## 🩸 Enemigos secundarios — Restos Animados (2–3)
+
+Base:
+
+- zombies / skeletons modificados
+
+Pero:
+
+- se arrastran
+- se reconstruyen
+- no mueren limpio
+
+---
+
+# 🎭 COMPORTAMIENTO
+
+### Aberración:
+
+- agresiva
+- ataca al que más interactúe con el entorno
+- no esquiva zonas peligrosas
+
+### Restos:
+
+- molestan
+- bloquean
+- fuerzan movimiento
+
+---
+
+# 🧩 INTERACCIÓN (opcional pero útil)
+
+Los jugadores pueden:
+
+---
+
+## 🔧 “Cerrar una fuga”
+
+- Acción
+- Arcana / DEX / herramientas DC 14
+
+Éxito:  
+👉 anulás un evento de la próxima ronda
+
+Fallo:  
+👉 doble evento
+
+---
+
+👉 Esto les da control sin simplificar la pelea
+
+
+
+# 🎬 MOMENTO NARRATIVO CLAVE
+
+Metelo a mitad de combate:
+
+> Por un instante…  
+> el patrón se alinea.
+
+> Y ves lo que debería haber sido.
+
+_(pausa)_
+
+> Luego… todo vuelve a romperse.
+
+👉 Esto conecta con:
+
+- sistema original
+- intervención del Círculo
+
+---
+
+# 🏁 FINAL
+
+Cuando cae la aberración:
+
+> No colapsa.
+> 
+> Se desarma… en direcciones distintas.
+> 
+> Como si nunca hubiera sido una sola cosa.
+
+> El sistema no se estabiliza.
+> 
+> Solo pierde…  
+> una forma más de intentar arreglarse.
