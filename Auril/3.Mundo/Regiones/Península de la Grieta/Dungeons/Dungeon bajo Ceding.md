@@ -939,3 +939,13 @@ Cuando termina:
 
 > Como si el sistema hubiera decidido  
 > que ya no puede seguir compensando.
+
+
+#  CÁMARA DE ECOS — REESTRUCTURADA
+
+##  Qué busca esta sala
+
+- Dar info del pasado (original vs. Círculo)
+- Generar tensión sin combate obligatorio
+- Ofrecer **dos formas de salir**: calmar o romper
+- Preparar la pelea del Guardián
