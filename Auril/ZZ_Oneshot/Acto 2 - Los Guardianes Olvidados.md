@@ -167,6 +167,133 @@ Uno de ellos alcanza a murmurar:
 
 Queda claro que no eran fanáticos voluntarios, sino personas consumidas por la Pasión.
 
+Los personajes derrotan al último enemigo.
+
+Silencio.
+
+Empiezan a escuchar aplausos.
+
+**Clap...**
+
+**Clap...**
+
+**Clap...**
+
+Todos miran hacia la puerta del club.
+
+Ahí está.
+
+Apoyado contra el marco.
+
+Aplaudiendo.
+
+Traje negro.
+
+Zapatos impecables.
+
+Guantes.
+
+Una bufanda...
+
+Mitad roja.
+
+Mitad azul.
+
+Nunca sabés de qué lado está.
+
+Nunca levanta la voz.
+
+Nunca corre.
+
+## El Heraldo sonríe.
+
+Mira a los personajes.
+
+> "¿Así que éstos son los nuevos?"
+
+Silencio.
+
+Después se ríe.
+
+No una risa malvada.
+
+Una risa de alguien que ya sabe cómo termina la historia.
+
+## El Heraldo
+
+> "Escuchame."
+
+Mira a los jugadores.
+
+> "¿Alguno de ustedes realmente cree que esta ciudad merece ser salvada?"
+
+Imaginate esa pregunta después de toda la aventura llena de trapitos, barras, Peugeot rotos y Crónica TV.
+
+## Después se pone serio.
+
+> "Cada clásico."
+
+Da un paso.
+
+> "Cada insulto."
+
+Otro paso.
+
+> "Cada pelea."
+
+Otro.
+
+> "Cada piedra."
+
+Otro.
+
+> "Cada bandera."
+
+Silencio.
+
+> "Todo me alimenta."
+
+
+## El Guardián grita
+
+> "¡No le crean!"
+
+## El Heraldo
+
+> "Ellos llevan siglos escondidos."
+
+Mira el club.
+
+> "Jugando al truco."
+
+## Última frase
+
+Antes de desaparecer.
+
+> "Nos vemos cuando empiece el alargue."
+
+Y desaparece.
+---
+
+## El Heraldo
+
+> "Ellos llevan siglos escondidos."
+
+Mira el club.
+
+> "Jugando al truco."
+
+## Primer diálogo
+
+> "Interesante."
+
+Mira a los Guardianes.
+
+> "Pensé que habían muerto hace años."
+
+Uno de los viejos cambia completamente la cara.
+
+> "...vos."
 ---
 
 # Escena 5 - La Misión
