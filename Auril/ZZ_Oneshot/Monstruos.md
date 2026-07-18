@@ -1,4 +1,4 @@
-## (Hinchas Corrompidos)Base
+## (Hinchas Corrompidos)x5
 ![[Pasted image 20260718134519.png]]
 
 Cambios:
@@ -31,7 +31,8 @@ Acá ya quiero enemigos distintos.
 
 Base:
 
-**Thug (CR 1/2)**
+![[Pasted image 20260718135500.png]]
+
 
 Reemplazar Multiattack por:
 
@@ -47,7 +48,7 @@ Empuja 10 ft.
 
 Base:
 
-**Veteran (CR 3)**
+![[Pasted image 20260718135534.png]]
 
 Pero bajarle HP.
 
@@ -94,7 +95,7 @@ Desventaja hasta el próximo turno.
 
 Base:
 
-**Mage**
+![[Pasted image 20260718135644.png]]
 
 Pero usar solamente:
 
@@ -111,7 +112,7 @@ Nada más.
 
 Base
 
-**Gladiator (CR 5)**
+![[Pasted image 20260718135723.png]]
 
 Literal.
 
@@ -154,7 +155,7 @@ No hace falta complicarlo.
 # Boss Final
 
 ## Stone Golem (CR 10)
-
+![[Pasted image 20260718135815.png]]
 Yo lo dejaría aproximadamente en:
 
 - **140-150 HP**
