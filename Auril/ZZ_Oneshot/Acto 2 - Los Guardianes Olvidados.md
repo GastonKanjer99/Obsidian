@@ -161,12 +161,6 @@ Ejemplos:
 
 Al derrotarlos, la corrupción abandona lentamente sus cuerpos.
 
-Uno de ellos alcanza a murmurar:
-
-> "No... otra vez..."
-
-Queda claro que no eran fanáticos voluntarios, sino personas consumidas por la Pasión.
-
 Los personajes derrotan al último enemigo.
 
 Silencio.
@@ -204,6 +198,19 @@ Nunca sabés de qué lado está.
 Nunca levanta la voz.
 
 Nunca corre.
+
+## Primer diálogo
+
+> "Interesante."
+
+Mira a los Guardianes.
+
+> "Pensé que habían muerto hace años."
+
+Uno de los viejos cambia completamente la cara.
+
+> "...vos."
+
 
 ## El Heraldo sonríe.
 
@@ -275,26 +282,84 @@ Antes de desaparecer.
 Y desaparece.
 ---
 
-## El Heraldo
 
-> "Ellos llevan siglos escondidos."
 
-Mira el club.
 
-> "Jugando al truco."
+### Después de que desaparece
 
-## Primer diálogo
+Silencio.
 
-> "Interesante."
+Los Guardianes quedan visiblemente afectados.
 
-Mira a los Guardianes.
+Uno se sienta.
 
-> "Pensé que habían muerto hace años."
+Otro se sirve un vaso de agua con la mano temblando.
 
-Uno de los viejos cambia completamente la cara.
+Los jugadores, obviamente, preguntan:
 
-> "...vos."
+> "¿Quién era ese?"
+
 ---
+
+### El Guardián más viejo responde
+
+> "Hace mucho tiempo... era uno de nosotros."
+
+Silencio.
+
+> "...o eso creemos."
+
+---
+
+### Otro lo corrige
+
+> "No. El hombre que conocimos murió hace años."
+
+---
+
+### Un tercero agrega
+
+> "Lo único que quedó... fue el Heraldo."
+> Con esto ya dejás entrever que **antes fue una persona**, pero hoy es otra cosa.
+ 
+Podrían explicar algo así:
+
+> "Cuando las dos órdenes comenzaron a olvidarse de su propósito, hubo uno que hizo una pregunta que ninguno de nosotros quiso responder."
+
+Los jugadores seguramente pregunten cuál.
+
+> "¿Y si la Pasión no era una prisión... sino el verdadero corazón de Rosario?"
+
+# Un detalle que puede dar mucho juego
+
+Uno de los Guardianes reconoce la bufanda.
+
+Dice:
+
+> "Antes era blanca."
+
+Silencio.
+
+> "La llevaba cuando todavía creía que los dos lados podían convivir."
+
+Ahora está teñida de rojo y azul.
+
+No porque sea de ambos clubes.
+
+Porque **representa que ya no distingue la rivalidad del odio**.
+
+Al final de la conversación, uno de los Guardianes les da algo concreto:
+
+> "Si el Heraldo apareció en persona..."
+
+> "...es porque el ritual ya empezó."
+
+Otro completa:
+
+> "Ya no va a intentar detenerlos."
+
+> "Va a intentar demorarlos."
+
 
 # Escena 5 - La Misión
 
