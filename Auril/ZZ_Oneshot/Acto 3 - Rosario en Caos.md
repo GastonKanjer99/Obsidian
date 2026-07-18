@@ -96,6 +96,16 @@ No quiero más hinchas comunes.
 
 Quiero que ya empiece la magia.
 
+Dice:
+
+> "Disculpen."
+
+Silencio.
+
+> "El paso al Parque está suspendido hasta nuevo aviso."
+
+Y recién ahí la bandera cobra vida.
+
 ## El Portaestandarte
 
 Es un campeón del Heraldo.

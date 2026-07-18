@@ -226,44 +226,6 @@ No una risa malvada.
 
 Una risa de alguien que ya sabe cómo termina la historia.
 
-## El Heraldo
-
-> "Escuchame."
-
-Mira a los jugadores.
-
-> "¿Alguno de ustedes realmente cree que esta ciudad merece ser salvada?"
-
-Imaginate esa pregunta después de toda la aventura llena de trapitos, barras, Peugeot rotos y Crónica TV.
-
-## Después se pone serio.
-
-> "Cada clásico."
-
-Da un paso.
-
-> "Cada insulto."
-
-Otro paso.
-
-> "Cada pelea."
-
-Otro.
-
-> "Cada piedra."
-
-Otro.
-
-> "Cada bandera."
-
-Silencio.
-
-> "Todo me alimenta."
-
-
-## El Guardián grita
-
-> "¡No le crean!"
 
 ## El Heraldo
 
@@ -280,8 +242,6 @@ Antes de desaparecer.
 > "Nos vemos cuando empiece el alargue."
 
 Y desaparece.
----
-
 
 
 
@@ -376,3 +336,28 @@ Debajo del parque se encuentra el verdadero sello.
 Uno de los Guardianes concluye:
 
 > "Si llegan a los penales... Rosario desaparece."
+
+
+# El Acto 2 necesita explicar POR QUÉ los PJ
+
+Hoy la pelota los elige.
+
+Pero nunca se responde:
+
+> ¿Por qué ellos?
+
+Yo metería una sola frase.
+
+Uno de los Guardianes dice:
+
+> "Las reliquias nunca eligen héroes."
+
+Pausa.
+
+> "Eligen neutrales."
+
+Otro agrega:
+
+> "Alguien que todavía pueda decidir."
+
+Eso justifica perfecto que sean cinco personas comunes.
