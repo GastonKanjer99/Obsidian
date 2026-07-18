@@ -94,9 +94,25 @@ Muy simple.
 
 Muy monje.
 
-**Final**
+ **Definitiva**
 
-Puede cruzar todo el campo ignorando terreno difícil, enemigos y efectos mágicos
+**Gambeta Imparable**
+
+Hasta el final del turno:
+
+Todos los ataques contra el Heraldo tienen ventaja.
+
+Y cada impacto reduce su CA en 1.
+
+Máximo -4.
+
+Narrativamente:
+
+El monje empieza a desacomodarlo.
+
+El resto del grupo aprovecha.
+
+Es MUY cooperativa.
 
 # Chucho - Bardo
 
@@ -126,16 +142,14 @@ Todos los aliados a 30 pies.
 
 (No requiere concentración.)
 
-**Final**
+**Definitiva**
 
-Empieza una canción.
+**La Tribuna Explota**
 
-Todos los aliados recuperan:
+Todos los aliados:
 
-- 20 HP
-- terminan Frightened y Charmed.
-
-Como levantar toda la tribuna.
+- recuperan 15 HP
+- quedan inmunes a Frightened durante 1 minuto.
 
 # Mai - Exploradora
 
@@ -157,20 +171,42 @@ Cuando impacta.
 
 +1d6 radiante.
 
-**Activa**
+ **Activa**
 
-"Tiro libre"
+**Pelota con efecto**
 
-Elegís un punto hasta 120 ft.
+Cuando pega un disparo:
 
-La pelota rebota.
+elige:
 
-Hace un ataque contra hasta 4 enemigos distintos.
+- empujar 15 ft
+- derribar
+- desarmar
 
-(No puede repetir objetivo.)
+(No requiere salvación.)
 
-**Final**
+**Definitiva**
 
-Patea la pelota al centro del sello.
+**Gol Imposible**
 
-Eso dispara el Skill Challenge.
+Declara un disparo.
+
+Ese disparo:
+
+- impacta automáticamente;
+- ignora cobertura;
+- hace daño crítico.
+
+Nada más.
+
+Imaginate el último turno.
+
+Todos están hechos mierda.
+
+Mai dice:
+
+> "Le pego."
+
+No tira.
+
+Es un golazo al ángulo.
