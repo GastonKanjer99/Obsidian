@@ -218,7 +218,7 @@ Su voz se mezcla con miles de cánticos.
 
 > "Si Rosario no quiere entregarme a la Pasión..."
 
-> "...la arrancaré con mis propias manos."
+> "..entonces Rosario no merece decidir."
 
 Explota una ola de energía.
 
