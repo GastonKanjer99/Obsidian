@@ -15,17 +15,17 @@
 
 # ⚡ ¿QUIERO HACER...? → USO...
 
-| Quiero... | Movida | Tiro |
-|---|---|---:|
-| Aguantar peligro / hacer algo arriesgado | **Enfrentar al Peligro** | +GUAPURA |
-| Investigar / buscar pistas / entender algo | **Viveza Criolla** | +VIVEZA |
-| Reconocer un monstruo y sus debilidades | **¡Esta Vizcacha se parece a mi Tío Clemente!** | +VIVEZA |
-| Perseguir / rastrear / escapar con caballo o perro | **Gracias a mi fiel compañero** | +FACÓN |
-| Calmar una bestia cantando | **Canto de las Llanuras** | +MATE |
-| Sacarle información a alguien tomando mate | **Cebar el Mate** | +MATE |
-| Ayudar a alguien en algo tranquilo | **Hacer una Gauchada** | +MATE |
-| Ayudar a alguien EN PELIGRO | **Ayudar a un compadre en peligro** | — |
-| Recuperarme emocionalmente en casa | **Volver al Rancho** | +MATE |
+| Quiero...                                          | Movida                                          |     Tiro |
+| -------------------------------------------------- | ----------------------------------------------- | -------: |
+| Aguantar peligro / hacer algo arriesgado           | **Enfrentar al Peligro**                        | +GUAPURA |
+| Investigar / buscar pistas / entender algo         | **Viveza Criolla**                              |  +VIVEZA |
+| Reconocer un monstruo y sus debilidades            | **¡Esta Vizcacha se parece a mi Tío Clemente!** |  +VIVEZA |
+| Perseguir / rastrear / escapar con caballo o perro | **Gracias a mi fiel compañero**                 |   +FACÓN |
+| Calmar una bestia cantando                         | **Canto de las Llanuras**                       |    +MATE |
+| Sacarle información a alguien tomando mate         | **Cebar el Mate**                               |    +MATE |
+| Ayudar a alguien en algo tranquilo                 | **Hacer una Gauchada**                          |    +MATE |
+| Ayudar a alguien EN PELIGRO                        | **Ayudar a un compadre en peligro**             |       +1 |
+| Recuperarme emocionalmente en casa                 | **Volver al Rancho**                            |    +MATE |
 
 ---
 
