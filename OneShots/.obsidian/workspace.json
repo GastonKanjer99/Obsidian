@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pampa/LA ÚLTIMA PAYADA/Acto I.md",
+                "file": "Pampa/LA ÚLTIMA PAYADA/Pantalla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acto I"
+              "title": "Pantalla"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pampa/LA ÚLTIMA PAYADA/Acto I.md",
+                "file": "Pampa/LA ÚLTIMA PAYADA/Pantalla.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Acto I"
+              "title": "Outline of Pantalla"
             }
           }
         ],
@@ -174,10 +174,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5ebaab0ff97fadf4",
+  "active": "7dc60fde3aabde1e",
   "lastOpenFiles": [
-    "Pampa/LA ÚLTIMA PAYADA/Resumen.md",
+    "Pampa/LA ÚLTIMA PAYADA/Acto III.md",
+    "Pampa/LA ÚLTIMA PAYADA/Pantalla.md",
+    "Pampa/LA ÚLTIMA PAYADA/Acto II.md",
     "Pampa/LA ÚLTIMA PAYADA/Acto I.md",
+    "Pampa/LA ÚLTIMA PAYADA/Resumen.md",
     "ZZ_Oneshot/Hojas/Yukih druida oneshot.pdf",
     "ZZ_Oneshot/Hojas/Untitled document.docx.pdf",
     "ZZ_Oneshot/Hojas/Monje Kensei oneshot.pdf",
@@ -219,9 +222,6 @@
     "3.Mundo/Facciones/Círculo de Sangre.md",
     "3.Mundo/Regiones/Península de la Grieta/Zonas/Disonancia Magica.md",
     "3.Mundo/Mapas/Península de la Grieta.md",
-    "3.Mundo/Regiones/Península de la Grieta/Zonas/Pantano.md",
-    "5.Mesas/04_20251010/Mesa 4.md",
-    "3.Mundo/Regiones/Península de la Grieta/Ciudades/Ceding/Ceding.md",
     "Untitled.canvas"
   ]
 }
