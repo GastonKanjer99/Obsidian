@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pampa/Machete de acciones.md",
+                "file": "Pampa/LA ÚLTIMA PAYADA/Acto I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Machete de acciones"
+              "title": "Acto I"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pampa/Machete de acciones.md",
+                "file": "Pampa/LA ÚLTIMA PAYADA/Acto I.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Machete de acciones"
+              "title": "Outline of Acto I"
             }
           }
         ],
@@ -176,8 +176,8 @@
   },
   "active": "5ebaab0ff97fadf4",
   "lastOpenFiles": [
-    "Pampa/LA ÚLTIMA PAYADA/Resumen.md",
     "Pampa/Machete de acciones.md",
+    "Pampa/LA ÚLTIMA PAYADA/Resumen.md",
     "Pampa/LA ÚLTIMA PAYADA/Pantalla.md",
     "Pampa/LA ÚLTIMA PAYADA/IMPROVISACIÓN Y EMERGENCIAS.md",
     "Pampa/LA ÚLTIMA PAYADA/Acto III.md",
