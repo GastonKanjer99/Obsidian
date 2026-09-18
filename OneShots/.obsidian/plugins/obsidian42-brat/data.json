@@ -1,0 +1,28 @@
+{
+  "pluginList": [
+    "Jareika/zoom-map",
+    "javalent/calendarium"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "Jareika/zoom-map",
+      "version": "latest"
+    },
+    {
+      "repo": "javalent/calendarium",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}

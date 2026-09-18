@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "f45182715e16953a",
+    "type": "split",
+    "children": [
+      {
+        "id": "927fe9f6bf2fc55f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ebaab0ff97fadf4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc5a818ff16a4c4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "53a3e1fd479586ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dc60fde3aabde1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9bf97cec428a7c16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5be75457155dd526",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.5
+  },
+  "right": {
+    "id": "e3b6bb2d8949e92e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e12e01fa20b387d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76eb2c9aed1f46c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lore/Facciones/Los Inigualables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Los Inigualables"
+            }
+          },
+          {
+            "id": "9145a69ce3b5f56c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mesas/04_20251010/Mesa 4 - Batalla Minotauro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mesa 4 - Batalla Minotauro"
+            }
+          },
+          {
+            "id": "be9cc1cfa22e9176",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fed3f2ff838443f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7dc60fde3aabde1e",
+  "lastOpenFiles": [
+    "ZZ_Oneshot/Hojas/Yukih druida oneshot.pdf",
+    "ZZ_Oneshot/Hojas/Untitled document.docx.pdf",
+    "ZZ_Oneshot/Hojas/Monje Kensei oneshot.pdf",
+    "ZZ_Oneshot/Hojas/Hoja de Personaje cumple agus.pdf",
+    "ZZ_Oneshot/Hojas/Hoja Chucho.pdf",
+    "ZZ_Oneshot/Acto 1 -- Acto 2.md",
+    "ZZ_Oneshot/Items.md",
+    "ZZ_Oneshot/Monstruos.md",
+    "ZZ_Oneshot/Hojas/Hoja Chucho (1).pdf",
+    "ZZ_Oneshot/Hojas/Monje Kensei oneshot (1).pdf",
+    "ZZ_Oneshot/Hojas/Yukih druida oneshot (1).pdf",
+    "ZZ_Oneshot/Hojas/Hoja de Personaje cumple agus (1).pdf",
+    "ZZ_Oneshot/Hojas/Untitled document.docx (1).pdf",
+    "ZZ_Oneshot/Pasted image 20260718135815.png",
+    "ZZ_Oneshot/Pasted image 20260718135723.png",
+    "ZZ_Oneshot/Pasted image 20260718135644.png",
+    "ZZ_Oneshot/Pasted image 20260718135534.png",
+    "ZZ_Oneshot/Pasted image 20260718135500.png",
+    "ZZ_Oneshot/Pasted image 20260718134519.png",
+    "ZZ_Oneshot/ACTO 4 - El Corazón de la Pasión.md",
+    "ZZ_Oneshot/Acto 3 - Rosario en Caos.md",
+    "ZZ_Oneshot/Acto 2 - Los Guardianes Olvidados.md",
+    "ZZ_Oneshot/Acto 1 - Una tarde tranquila en Pichincha.md",
+    "ZZ_Oneshot/Lore.md",
+    "ZZ_Oneshot/Random.md",
+    "3.Mundo/Regiones/Península de la Grieta/Dungeons/Dungeon bajo Ceding.md",
+    "z_Resources/Mapas/map_142x55.png",
+    "2.Lore/Bestiario/Ogre.md",
+    "z_Resources/Images/Pasted image 20260425151829.png",
+    "2.Lore/Bestiario/Specter.md",
+    "z_Resources/Images/Pasted image 20260425151541.png",
+    "2.Lore/Bestiario/Helmed Horror.md",
+    "z_Resources/Images/Pasted image 20260425151158.png",
+    "2.Lore/Bestiario/Fragmentos del Sistema.md",
+    "2.Lore/Bestiario/Animated Armor.md",
+    "5.Mesas/07_20260423/Mesa 7.md",
+    "5.Mesas/06_20260125/Consecuencias mecanismo Dungeon bajo Ceding.md",
+    "3.Mundo/Regiones/Península de la Grieta/Lore.md",
+    "3.Mundo/Facciones/Círculo de Sangre.md",
+    "3.Mundo/Regiones/Península de la Grieta/Zonas/Disonancia Magica.md",
+    "3.Mundo/Mapas/Península de la Grieta.md",
+    "3.Mundo/Regiones/Península de la Grieta/Zonas/Pantano.md",
+    "5.Mesas/04_20251010/Mesa 4.md",
+    "3.Mundo/Regiones/Península de la Grieta/Ciudades/Ceding/Ceding.md",
+    "3.Mundo/Regiones/Península de la Grieta/Ciudades/Ceding/NPCs/Menores.md",
+    "Untitled.canvas"
+  ]
+}
