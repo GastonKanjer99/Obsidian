@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pampa/LA ÚLTIMA PAYADA/Pantalla.md",
+                "file": "Pampa/LA ÚLTIMA PAYADA/IMPROVISACIÓN Y EMERGENCIAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pantalla"
+              "title": "IMPROVISACIÓN Y EMERGENCIAS"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pampa/LA ÚLTIMA PAYADA/Pantalla.md",
+                "file": "Pampa/LA ÚLTIMA PAYADA/IMPROVISACIÓN Y EMERGENCIAS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pantalla"
+              "title": "Outline of IMPROVISACIÓN Y EMERGENCIAS"
             }
           }
         ],
@@ -174,10 +174,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "7dc60fde3aabde1e",
+  "active": "5ebaab0ff97fadf4",
   "lastOpenFiles": [
-    "Pampa/LA ÚLTIMA PAYADA/Acto III.md",
     "Pampa/LA ÚLTIMA PAYADA/Pantalla.md",
+    "Pampa/LA ÚLTIMA PAYADA/IMPROVISACIÓN Y EMERGENCIAS.md",
+    "Pampa/LA ÚLTIMA PAYADA/Acto III.md",
     "Pampa/LA ÚLTIMA PAYADA/Acto II.md",
     "Pampa/LA ÚLTIMA PAYADA/Acto I.md",
     "Pampa/LA ÚLTIMA PAYADA/Resumen.md",
@@ -221,7 +222,6 @@
     "3.Mundo/Regiones/Península de la Grieta/Lore.md",
     "3.Mundo/Facciones/Círculo de Sangre.md",
     "3.Mundo/Regiones/Península de la Grieta/Zonas/Disonancia Magica.md",
-    "3.Mundo/Mapas/Península de la Grieta.md",
     "Untitled.canvas"
   ]
 }
