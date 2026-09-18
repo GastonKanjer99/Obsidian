@@ -1136,7 +1136,7 @@ Señales:
 - Espuelas.
 - Paisano bien vestido que no estaba ahí.
 
-> —Mire dónde se vino a meter, aparcero.
+> —Mire dónde se vino a meter, compadre.
 
 Puede ofrecer **Pacto con Mandinga**.
 
