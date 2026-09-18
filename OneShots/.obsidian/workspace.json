@@ -11,10 +11,14 @@
             "id": "5ebaab0ff97fadf4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Pampa/LA ÚLTIMA PAYADA/Resumen.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Resumen"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Pampa/LA ÚLTIMA PAYADA/Resumen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Resumen"
             }
           }
         ],
@@ -161,11 +166,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "7dc60fde3aabde1e",
+  "active": "5ebaab0ff97fadf4",
   "lastOpenFiles": [
+    "Pampa/LA ÚLTIMA PAYADA/Resumen.md",
     "ZZ_Oneshot/Hojas/Yukih druida oneshot.pdf",
     "ZZ_Oneshot/Hojas/Untitled document.docx.pdf",
     "ZZ_Oneshot/Hojas/Monje Kensei oneshot.pdf",
