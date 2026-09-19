@@ -1,4 +1,3 @@
-Sí. Acá ya conviene escribirlo **como material de dirección**, no seguir diseñando en abstracto. El Acto I tiene que hacer cuatro cosas sin que se note: presentar el pago y los NPC, enseñarles a todos cómo se juega PbtA, establecer que el folklore es real, y terminar con el primer “che, pará”.
 
 # ACTO I — La Fiesta de Santos Vega
 
@@ -28,7 +27,7 @@ Ponés folklore instrumental bajito y narrás:
 > 
 > Y abajo de eso, con otra letra:
 > 
-> **“MENTIRA.”**
+> **“Ni EN PEDO”**
 
 Benítez ya puede aparecer puteando mientras intenta borrarlo.
 

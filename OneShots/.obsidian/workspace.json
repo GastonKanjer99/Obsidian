@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pampa/Machete de acciones.md",
+                "file": "Pampa/LA ÚLTIMA PAYADA/Acto I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Machete de acciones"
+              "title": "Acto I"
             }
           }
         ]
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pampa/Machete de acciones.md",
+                "file": "Pampa/LA ÚLTIMA PAYADA/Acto I.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -168,17 +168,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "5ebaab0ff97fadf4",
   "lastOpenFiles": [
+    "Pampa/LA ÚLTIMA PAYADA/Resumen.md",
+    "Pampa/LA ÚLTIMA PAYADA/Pantalla.md",
+    "Pampa/Machete de acciones.md",
     "Pampa/LA ÚLTIMA PAYADA/Acto I.md",
     "Pampa/LA ÚLTIMA PAYADA/Acto III.md",
     "Pampa/LA ÚLTIMA PAYADA/Acto II.md",
-    "Pampa/Machete de acciones.md",
-    "Pampa/LA ÚLTIMA PAYADA/Resumen.md",
-    "Pampa/LA ÚLTIMA PAYADA/Pantalla.md",
     "Pampa/LA ÚLTIMA PAYADA/IMPROVISACIÓN Y EMERGENCIAS.md",
     "ZZ_Oneshot/Hojas/Yukih druida oneshot.pdf",
     "ZZ_Oneshot/Hojas/Untitled document.docx.pdf",
