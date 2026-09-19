@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -148,7 +150,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Acto III"
+              "title": "Outline"
             }
           }
         ],
@@ -170,8 +172,8 @@
       "obsidian-git:Open Git source control": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "5ebaab0ff97fadf4",
