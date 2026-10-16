@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fallout-DnD/Fallout Rosario/ACTO III — La oficina que nunca cierra.md",
+                "file": "Fallout-DnD/Fallout Rosario/ACTO IV — Auditoría final.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ACTO III — La oficina que nunca cierra"
+              "title": "ACTO IV — Auditoría final"
             }
           }
         ],
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fallout-DnD/Fallout Rosario/ACTO III — La oficina que nunca cierra.md",
+                "file": "Fallout-DnD/Fallout Rosario/ACTO IV — Auditoría final.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -193,14 +193,17 @@
   },
   "active": "d3d74d8b6721a431",
   "lastOpenFiles": [
-    "Pasted image 20261016162806.png",
-    "Pasted image 20261016161642.png",
-    "Fallout-DnD/Fallout Rosario/ACTO I — El último día bajo tierra.md",
-    "Fallout-DnD/Fallout Rosario/ACTO II — El Gigante todavía resiste.md",
+    "Pasted image 20261016175430.png",
     "Fallout-DnD/Fallout Rosario/ACTO III — La oficina que nunca cierra.md",
-    "Pasted image 20261016155127.png",
-    "Pasted image 20261016155118.png",
-    "Pasted image 20261016154341.png",
+    "Fallout-DnD/Fallout Rosario/ACTO I — El último día bajo tierra.md",
+    "Fallout-DnD/Fallout Rosario/ACTO IV — Auditoría final.md",
+    "Fallout-DnD/Pasted image 20261016175353.png",
+    "Fallout-DnD/Pasted image 20261016162806.png",
+    "Fallout-DnD/Fallout Rosario/ACTO II — El Gigante todavía resiste.md",
+    "Fallout-DnD/Pasted image 20261016161642.png",
+    "Fallout-DnD/Pasted image 20261016155127.png",
+    "Fallout-DnD/Pasted image 20261016155118.png",
+    "Fallout-DnD/Pasted image 20261016154341.png",
     "Fallout-DnD/Pasted image 20261016144547.png",
     "Pampa/LA ÚLTIMA PAYADA/Acto I.md",
     "Fallout-DnD/Fallout Rosario",
@@ -225,8 +228,6 @@
     "ZZ_Oneshot/Pasted image 20260718135815.png",
     "ZZ_Oneshot/Pasted image 20260718135723.png",
     "ZZ_Oneshot/Pasted image 20260718135644.png",
-    "ZZ_Oneshot/Pasted image 20260718135534.png",
-    "ZZ_Oneshot/Pasted image 20260718135500.png",
     "ZZ_Oneshot/ACTO 4 - El Corazón de la Pasión.md",
     "ZZ_Oneshot/Acto 3 - Rosario en Caos.md",
     "ZZ_Oneshot/Acto 2 - Los Guardianes Olvidados.md",
@@ -238,7 +239,6 @@
     "2.Lore/Bestiario/Specter.md",
     "2.Lore/Bestiario/Helmed Horror.md",
     "2.Lore/Bestiario/Fragmentos del Sistema.md",
-    "2.Lore/Bestiario/Animated Armor.md",
     "Untitled.canvas"
   ]
 }
