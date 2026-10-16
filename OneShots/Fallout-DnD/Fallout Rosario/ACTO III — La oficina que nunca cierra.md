@@ -230,8 +230,6 @@ No es obligatorio combatirlos.
 
 ![PC gaming’s toughest prisons | PC Gamer](https://images.openai.com/static-rsc-4/nkJ8DMmyl4NqCNRYAaLIjcrloTcRTwxBxw5Zt6a7c6XUjvd3hhSygiHZVqF9tN72_kk8Vzz8esQxBxqoTXJ9Xnba8Jm-Qk8CbqZxobsLuJAGA_tO2AT9HHRdCZ1qAT6XWG3MkBO2iI8Ma-hM1daxeGInl5fUTi2EH8nXsCFdPnE?purpose=inline)
 
-[pcgamer.com](https://www.pcgamer.com/pc-gamings-toughest-prisons/?utm_source=chatgpt.com)
-
 En el subsuelo del edificio, varias celdas están ocupadas por personas detenidas.
 
 Entre ellas se encuentran los tres chatarreros desaparecidos de Nueva Arroyito.
@@ -291,7 +289,6 @@ Marta puede acompañarlos hasta las oficinas superiores, pero no participará di
 
 ![Abri 95 Fallout 4 : Comment y accéder et que faut-il y faire ? - jeuxvideo.com](https://images.openai.com/static-rsc-4/YIgO5hlxbW2txoEGR5JjsSLwIPMwkhsXJRbqh3iXBzIYl4e4mYVZKd1QtQ_eF7vMZh0CCOPNnzfii0bbpKRNjEb-NW6Ihy6ulYufoF5JQRXS1bgTxXx_p7Y6ZvaDmgmjEOWvIojG0KjbM2yj0sfqO3Iom13NeJSm032HJOhbBEQ?purpose=inline)
 
-[jeuxvideo.com](https://www.jeuxvideo.com/news/1878936/abri-95-fallout-4-comment-y-acceder-et-que-faut-il-y-faire.htm?utm_source=chatgpt.com)
 
 Esta zona contiene las antiguas oficinas de los funcionarios responsables de la Delegación.
 
