@@ -408,6 +408,18 @@ Esta pista conecta directamente los problemas de Nueva Arroyito con el Vault.
 Los jugadores todavía no conocen la verdadera naturaleza del experimento, pero ahora saben que la reactivación de la Delegación y la amenaza contra su hogar están relacionadas.
 
 
+> El sol comienza a descender sobre las ruinas de Rosario.
+> Desde una de las tribunas del antiguo Gigante de Arroyito, pueden distinguir una columna de edificios en el horizonte.
+> Entre ellos destaca una estructura que parece desafiar al paso del tiempo.
+> Sus ventanas están iluminadas.
+> En su fachada, una enorme pantalla parpadea:
+> DELEGACIÓN REGIONAL DE REINTEGRACIÓN CIUDADANA
+> ATENCIÓN AL PÚBLICO: 24 HORAS
+> TIEMPO ESTIMADO DE ESPERA: 173 AÑOS
+> Desde algún lugar de la ciudad se escucha una sirena.
+> Sus Pip-Boy emiten una notificación:
+> VAULT 341 — TIEMPO RESTANTE PARA REGULARIZACIÓN: 18 HORAS.
+
 ### Nota para dirigir
 
 Este encuentro me gusta especialmente porque pone a los jugadores frente a una decisión muy Fallout: intervenir para ayudar a un desconocido puede traerles problemas con una autoridad que controla el lugar al que necesitan entrar.
@@ -415,3 +427,4 @@ Este encuentro me gusta especialmente porque pone a los jugadores frente a una d
 Y, a diferencia de las mutarachas o los saqueadores, estos robots no son simplemente enemigos: son representantes del sistema que los PJ necesitan utilizar para salvar el Vault.
 
 Eso hace que resolver el incidente a tiros sea divertido, pero potencialmente inconveniente. Y si algo sabemos de D&D, es que «potencialmente inconveniente» jamás detuvo a una party.
+
