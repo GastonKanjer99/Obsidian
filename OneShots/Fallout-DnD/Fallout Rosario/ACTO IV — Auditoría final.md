@@ -86,5 +86,44 @@ NARRACIÓN PARA LEER
 > Tiren iniciativa.
 
 ![[Pasted image 20261016175353.png]]
+
 ![[Pasted image 20261016175430.png]]
 
+### Elementos del escenario
+
+- Terminal de seguridad: hackeo CD 15 para desactivar una torreta.
+    
+- Conductos de refrigeración: sabotaje CD 15 para forzar el sobrecalentamiento del jefe.
+    
+- Consola central: hackeo CD 17 para cancelar la orden de apagado.
+    
+- Coberturas: servidores y columnas proporcionan +2 CA.
+
+
+Una interacción con las terminales requiere una acción. Si ya sabotearon sistemas durante el Acto III, conservan esas ventajas.
+
+El combate termina cuando destruyen al robot o consiguen desactivar las defensas desde la consola.
+
+## 4. El desenlace
+
+Una vez neutralizado S.I.G.A., los PJ pueden decidir qué hacer con el sistema.
+
+|Decisión|Consecuencia|
+|---|---|
+|Mantener S.I.G.A.|El Vault sobrevive, pero sigue controlado|
+|Reprogramarlo|El Vault queda libre y conserva sus sistemas|
+|Destruirlo|Termina el experimento, pero deberán reparar o sustituir los controles automatizados del Vault|
+
+Importante: destruir a S.I.G.A. no debería matar automáticamente a los habitantes. Roberto, el de Mantenimiento, puede mantener los sistemas esenciales funcionando provisionalmente.
+
+## Epílogo estilo Fallout
+
+Narrá brevemente qué ocurrió con cada lugar y personaje importante.
+
+> «El Vault 341 sobrevivió a su primera crisis en 210 años».
+> «Nueva Arroyito continuó prosperando entre las ruinas del Gigante».
+> «Osvaldo, el Contador, finalmente consiguió regularizar sus deudas. Descubrió que ahora le debían intereses desde 2077».
+> «El Cometrabas consiguió empleo como encargado de demoliciones. Fue despedido a las tres horas por comerse la puerta de la oficina».
+> «Y en algún lugar del Yermo, un viejo Protectron municipal continuó cobrando multas a vehículos que llevaban dos siglos sin circular».
+
+Terminá preguntando a cada jugador qué hizo su personaje después de regresar al Vault. Una o dos frases por jugador y cerramos.
