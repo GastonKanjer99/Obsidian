@@ -34,10 +34,8 @@ NARRACIÓN PARA LEER EN VOZ ALTA
 > Las tribunas de un antiguo estadio se elevan sobre los edificios destruidos. Sobre ellas se levantan torres de vigilancia, antenas, viviendas y enormes banderas azules y amarillas.
 > Una columna de humo asciende desde el interior.
 > Sobre la entrada principal, un cartel improvisado anuncia:
-> NUEVA ARROYITO — POBLACIÓN: 412
-> Debajo, alguien tachó el número y escribió 409.
-> Y debajo de eso, otra persona agregó:
-> «PREGUNTARLE A OSVALDO».
+> POBLACIÓN: 417
+> VISITANTES: PAGAN ENTRADA
 
 ### El control de acceso
 
@@ -45,13 +43,19 @@ Dos guardias armados custodian la entrada.
 
 Uno de ellos, el Cabo Medina, es un hombre agotado que lleva catorce horas trabajando.
 
-Cuando ve los uniformes del Vault, pregunta:
-
-> «¿Ustedes son inspectores? Mirá que nosotros tenemos todo en regla, eh. Bueno, casi todo. Bueno, algunas cosas».
+> Cuando ve los uniformes del Vault
+> Sonríe.
+> «Mirá vos... estos vienen vestidos como gente de bien».
 
 Los personajes pueden entrar sin problemas, salvo que se comporten de manera abiertamente hostil.
 
 Medina les advierte que no se acerquen a los túneles inferiores.
+
+> «Miren, muchachos, si van a bajar a los túneles, tengan cuidado con el Cometrabas».
+> «¿El qué?»
+> «El Cometrabas».
+> «¿Y por qué le dicen así?»
+> «Porque se come todos los travesaños
 
 Motivo: hace varios días desaparecieron animales y algunos recolectores escucharon ruidos extraños bajo las tribunas.
 
@@ -63,13 +67,6 @@ Los PJ pueden recorrer libremente Nueva Arroyito.
 
 No hace falta interpretar cada comercio. Prepararía tres lugares importantes.
 
-Un guardia les advierte:
-
-> «Miren, muchachos, si van a bajar a los túneles, tengan cuidado con el Cometrabas».
-> «¿El qué?»
-> «El Cometrabas».
-> «¿Y por qué le dicen así?»
-> «Porque se come los travesaños, flaco. ¿Qué parte no entendiste?».
 
 
 ### El Mercado del Círculo Central

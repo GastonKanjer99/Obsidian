@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fallout-DnD/Cumple Seba/ACTO II — El Gigante todavía resiste.md",
+                "file": "Fallout-DnD/Fallout Rosario/ACTO II — El Gigante todavía resiste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "ACTO II — El Gigante todavía resiste"
             }
+          },
+          {
+            "id": "d3d74d8b6721a431",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fallout-DnD/Fallout Rosario/ACTO III.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ACTO III"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fallout-DnD/Cumple Seba/ACTO II — El Gigante todavía resiste.md",
+                "file": "Fallout-DnD/Fallout Rosario/ACTO III.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,16 +191,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5ebaab0ff97fadf4",
+  "active": "d3d74d8b6721a431",
   "lastOpenFiles": [
+    "Fallout-DnD/Fallout Rosario/ACTO II — El Gigante todavía resiste.md",
+    "Fallout-DnD/Fallout Rosario/ACTO III.md",
+    "Fallout-DnD/Fallout Rosario/ACTO I — El último día bajo tierra.md",
     "Pasted image 20261016155127.png",
     "Pasted image 20261016155118.png",
     "Pasted image 20261016154341.png",
-    "Fallout-DnD/Cumple Seba/ACTO I — El último día bajo tierra.md",
-    "Fallout-DnD/Cumple Seba/ACTO II — El Gigante todavía resiste.md",
     "Fallout-DnD/Pasted image 20261016144547.png",
     "Pampa/LA ÚLTIMA PAYADA/Acto I.md",
-    "Fallout-DnD/Cumple Seba",
+    "Fallout-DnD/Fallout Rosario",
     "Fallout-DnD",
     "Pampa/LA ÚLTIMA PAYADA/Resumen.md",
     "Pampa/LA ÚLTIMA PAYADA/Pantalla.md",
@@ -217,7 +233,6 @@
     "ZZ_Oneshot/Lore.md",
     "ZZ_Oneshot/Random.md",
     "3.Mundo/Regiones/Península de la Grieta/Dungeons/Dungeon bajo Ceding.md",
-    "z_Resources/Mapas/map_142x55.png",
     "2.Lore/Bestiario/Ogre.md",
     "2.Lore/Bestiario/Specter.md",
     "2.Lore/Bestiario/Helmed Horror.md",

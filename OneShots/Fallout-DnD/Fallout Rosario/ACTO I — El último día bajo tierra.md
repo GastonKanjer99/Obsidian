@@ -322,3 +322,85 @@ Primero: no reveles demasiado sobre el experimento. La sospecha de Elena y los d
 Segundo: no fuerces el combate con el Protectron. Si los jugadores quieren destruirlo, dejalos intentarlo, pero tampoco hagas que el primer NPC del exterior sea hostil por defecto. Es mucho más divertido que puedan encontrarse con él nuevamente cuando ya estén metidos en problemas administrativos.
 
 Con esto tenemos el primer acto funcional. Para el Acto II, yo ampliaría bastante la libertad: el peaje de Pellegrini, el mercado de chatarreros, las facciones rosarinas y varias maneras de encontrar la Delegación. Ahí es donde realmente podemos dejar que el caos de los jugadores empiece a moldear la aventura.
+
+
+# Transición — El camino hacia la Delegación
+
+![Why the Capital Wasteland Still Haunts Us: Fallout 3's Masterclass in Isolation | Pulsar.news|496](https://images.openai.com/static-rsc-4/69RAawtkzAbSf1uoI3rDxgeKFNnFcSjYpJvzW0x_2FgFNzlrLNUsqufQD0hD7BhHz98yAiUCSu-J-lU4oBfXS25nWEUopuqYEQZ2csN1OTbxOyxFH0bqAxsNYrydEZP7pkyr5qnahGFY8WQwdvm_QMlXF3GFvQCIKRgNuWpCKiA?purpose=inline)
+
+
+## 1. El problema del mapa
+
+Después del combate contra las mutarachas y de escuchar la transmisión de Radio Yermo, los personajes intentan orientarse.
+
+El mapa que les entregó el Supervisor indica la ubicación de la Delegación Regional, pero corresponde a la Rosario de 2077.
+
+Las calles actuales están destruidas, varios edificios colapsaron y algunas zonas presentan niveles peligrosos de radiación.
+
+Cuando intentan utilizar sus Pip-Boy para calcular una ruta, reciben el siguiente mensaje:
+
+> PIP-BOY 3000 — SISTEMA DE NAVEGACIÓN
+> 
+> DESTINO: DELEGACIÓN REGIONAL DE REINTEGRACIÓN CIUDADANA
+> 
+> RUTA DIRECTA: NO DISPONIBLE
+> 
+> MOTIVO: OBSTRUCCIÓN ESTRUCTURAL / CONTAMINACIÓN RADIACTIVA
+> 
+> BUSCANDO RUTAS ALTERNATIVAS...
+> 
+> PUNTO DE ABASTECIMIENTO DETECTADO: NUEVA ARROYITO
+> 
+> ESTADO: ASENTAMIENTO ACTIVO
+> 
+> RECOMENDACIÓN: ACTUALIZAR CARTOGRAFÍA Y CONSULTAR RUTAS SEGURAS.
+
+Esto les proporciona una razón lógica para considerar Nueva Arroyito sin convertirla en una obligación.
+
+### ¿Por qué el Pip-Boy conoce Nueva Arroyito?
+
+No lo haría aparecer mágicamente en una base de datos de hace 200 años.
+
+El Pip-Boy acaba de captar una señal de radio local que transmite información básica sobre rutas comerciales y asentamientos.
+
+Nueva Arroyito mantiene una pequeña baliza para atraer comerciantes.
+
+Por eso el dispositivo puede identificarlo como un punto de abastecimiento.
+
+## 2. La advertencia del Protectron
+
+Si el Protectron M-200 sigue funcionando y los personajes mantienen una relación razonablemente amistosa con él, puede aportar información adicional.
+
+> «CONSULTA DE RUTA RECIBIDA».
+> 
+> «DESTINO: DELEGACIÓN REGIONAL».
+> 
+> «ADVERTENCIA: ACCESOS PRINCIPALES BAJO CONTROL DE UNIDADES DE FISCALIZACIÓN».
+> 
+> «RUTA COMERCIAL ALTERNATIVA DISPONIBLE A TRAVÉS DEL ANTIGUO ESTADIO GIGANTE DE ARROYITO».
+> 
+> «SE RECOMIENDA UTILIZAR VÍAS AUTORIZADAS».
+> 
+> «EL MUNICIPIO NO SE RESPONSABILIZA POR DESMEMBRAMIENTOS, MUTACIONES O DEMORAS ADMINISTRATIVAS».
+
+El Protectron conoce rutas históricas y ha detectado movimiento reciente de robots de S.I.G.A., pero no dispone de información completa.
+
+Esto refuerza la utilidad de pasar por Nueva Arroyito.
+
+## 3. Una pequeña decisión para los jugadores
+
+En este punto les presentaría dos alternativas.
+
+|Ruta|Ventajas|Riesgos|
+|---|---|---|
+|Directa hacia la Delegación|Más corta|Radiación, derrumbes y patrullas de S.I.G.A.|
+|Por Nueva Arroyito|Suministros, información actualizada y posibles aliados|Desvío y tiempo adicional|
+
+La ruta directa debe ser realmente posible. Si los jugadores insisten en tomarla, no los obligaría a pasar por el estadio.
+
+Podés resolverla con una prueba grupal de Sabiduría (Supervivencia) CD 15. Si al menos dos de los cuatro personajes tienen éxito, atraviesan la zona sin problemas graves.
+
+Si fallan, encuentran una patrulla o una zona contaminada que les exige gastar recursos o buscar un desvío.
+
+No haría que un fallo los teletransporte a Nueva Arroyito. La elección tiene que ser auténtica.
+
