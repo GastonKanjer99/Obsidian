@@ -62,6 +62,16 @@ Esta será nuestra primera pista sobre el Cometrabas.
 Los PJ pueden recorrer libremente Nueva Arroyito.
 
 No hace falta interpretar cada comercio. Prepararía tres lugares importantes.
+
+Un guardia les advierte:
+
+> «Miren, muchachos, si van a bajar a los túneles, tengan cuidado con el Cometrabas».
+> «¿El qué?»
+> «El Cometrabas».
+> «¿Y por qué le dicen así?»
+> «Porque se come los travesaños, flaco. ¿Qué parte no entendiste?».
+
+
 ### El Mercado del Círculo Central
 ![Enhanced Wasteland Preset - Power Noodles at Fallout 4 Nexus - Mods and community|330](https://images.openai.com/static-rsc-4/pjzWkKescGZIZGfIMJMKzwdLGN7R8SV1y6y9N38zlUTA9QeWQclcgr3pf0CmEznkgM8l7XTL7P0rtxfdf_x7KMvOEnCEski3_MYTzolM0X3EcxmepOKjs1i7QlVTMdN2PEpn8r2tEuPCf5aYdjcHgIIm6_adnamcl8LUEkpotPA?purpose=inline)
 
@@ -209,3 +219,199 @@ NARRACIÓN PARA LEER
 > Parece bastante molesta por la interrupción.
 
 ![[Pasted image 20261016154341.png]]
+
+### Lo interesante del encuentro
+
+No hace falta matarlo.
+
+Los jugadores podrían atraerlo fuera de los túneles utilizando chatarra, encerrarlo en un depósito o conseguir que siga un vehículo cargado de metal.
+
+Y acá hay una oportunidad muy Fallout:
+
+Si los PJ descubren que la criatura se alimenta de metal, pueden convencer a Osvaldo de capturarla viva y utilizarla como una especie de trituradora biológica industrial.
+
+Osvaldo estaría encantado.
+
+> «¿Me estás diciendo que ese bicho come chatarra y caga metal procesado? ¡Flaco, acabás de descubrir la revolución industrial!».
+
+Si deciden matarlo, el combate debería ser moderadamente exigente, especialmente si ya gastaron recursos.
+
+Si lo capturan, podrían ganar un aliado comercial y modificar el futuro de Nueva Arroyito.
+
+Nota de balance: este encuentro es opcional y el CR indicado es orientativo. Con cuatro personajes nivel 5 y todos sus recursos disponibles, el monstruo probablemente no sobreviva demasiado. Su fuerza está en el entorno y en la posibilidad de resolverlo creativamente, no en ser un jefe final.
+
+## 5. El incidente de los inspectores
+
+  
+![Modiphius Returns To New Vegas With New Fallout The Roleplaying Game Expansion Royal Flush - The Fandomentals|615](https://images.openai.com/static-rsc-4/96QLV60KhE4j9VAwNv2dt76OUZX4iAXvrE2EKnUJDZwCEDp1cfZ5XN_FDscEW9tLqT2lSYt5bRLnSvhP15EkJ_9Q7cdusAylhFx66OFDjFqB1sKWcnkR66At3XKHfKWaGf-dNvEkkNT45QzCYBgUZku7-pgR10vW1o2kmBysor4?purpose=inline)
+
+Mientras los personajes recorren Nueva Arroyito, una patrulla de robots administrativos de S.I.G.A. llega al asentamiento.
+
+Desde hace tres días, estas unidades recorren Rosario identificando ciudadanos sin documentación, confiscando suministros y deteniendo a quienes presentan irregularidades.
+
+La población está cada vez más preocupada. Algunos comerciantes comenzaron a cerrar sus puestos y varias familias evitan salir de sus viviendas.
+
+Los robots no vienen específicamente por los PJ. Su objetivo es realizar una inspección general del asentamiento y trasladar a los ciudadanos que no cumplan los requisitos.
+
+Esto es importante: el mundo debe sentirse vivo, no como si todos los acontecimientos existieran únicamente para los jugadores.
+
+### La llegada de los inspectores
+
+NARRACIÓN PARA LEER
+
+> Mientras recorren el mercado, escuchan un sonido metálico proveniente de uno de los accesos al estadio.
+> CLANK. CLANK. CLANK.
+> Las conversaciones comienzan a apagarse.
+> Tres figuras metálicas avanzan por el antiguo túnel de ingreso al campo de juego.
+> Son robots de aspecto humanoide, cubiertos de pintura azul descascarada. En sus pechos llevan un emblema que dice:
+> 
+ CUERPO DE FISCALIZACIÓN CIUDADANA
+> 
+> El robot central se detiene frente al mercado.
+> Sus ojos se iluminan.
+> «ATENCIÓN, CIUDADANOS».
+> «SE INICIA OPERATIVO EXTRAORDINARIO DE REGULARIZACIÓN».
+> «SE SOLICITA PRESENTAR DOCUMENTACIÓN PERSONAL, CONSTANCIA DE DOMICILIO Y CERTIFICADO DE SUPERVIVENCIA».
+> «LA NEGATIVA A COLABORAR SERÁ INTERPRETADA COMO CONFORMIDAD CON EL PROCEDIMIENTO DE DETENCIÓN».
+> Una anciana levanta la mano.
+> «Disculpe, señor robot, ¿qué pasa si no tengo certificado de supervivencia?».
+> «DEBERÁ PRESENTAR UN CERTIFICADO DE DEFUNCIÓN».
+> «Pero estoy viva».
+> «IRREGULARIDAD DETECTADA».
+
+## El conflicto
+
+Los inspectores comienzan a revisar los puestos del mercado.
+
+Uno de ellos encuentra a Pochito, un adolescente que ayuda a transportar mercadería y que no posee documentación.
+
+El robot consulta sus registros.
+
+> «CIUDADANO NO REGISTRADO».
+> 
+> «IDENTIDAD NO VERIFICABLE».
+> 
+> «PROCEDIENDO A TRASLADO PREVENTIVO».
+
+El robot lo toma del brazo.
+
+Pochito comienza a forcejear.
+
+Su madre intenta intervenir, pero otro inspector la aparta.
+
+Los habitantes observan con miedo. Nadie quiere enfrentarse a los robots porque saben que sus armas pueden matar a una persona en segundos.
+
+Este es el momento en el que los jugadores pueden intervenir.
+
+No hace falta que lo hagan inmediatamente. Dales espacio para observar, hablar entre ellos y decidir.
+
+### ¿Qué pueden hacer?
+
+|Acción|Resolución|
+|---|---|
+|Mostrar credenciales del Vault 341|Los inspectores reconocen su autoridad provisional|
+|Persuadir al inspector principal|Carisma (Persuasión) CD 15|
+|Falsificar una autorización|Inteligencia (Investigación) o herramienta apropiada, CD 14|
+|Hackear un robot|Inteligencia con herramientas de manitas, CD 16|
+|Distraer a los inspectores|Engaño CD 14|
+|Atacarlos|Comienza el combate|
+
+Si muestran las credenciales, el inspector principal consulta la base de datos.
+
+> «VAULT 341 IDENTIFICADO».
+> 
+> «PERSONAL DE REINTEGRACIÓN DETECTADO».
+> 
+> «SU AUTORIZACIÓN ES VÁLIDA».
+> 
+> «ADVERTENCIA: SU CERTIFICADO DE SUPERVIVENCIA COLECTIVA SE ENCUENTRA PENDIENTE».
+> 
+> «SE RECOMIENDA REGULARIZAR SU SITUACIÓN ANTES DEL VENCIMIENTO».
+
+Esto permite que los PJ comprendan que los inspectores están relacionados directamente con su misión.
+
+Pero el robot no libera automáticamente al adolescente. Para hacerlo, necesitan justificar por qué deberían suspender el procedimiento.
+
+## Combate — Fiscalización por la fuerza
+
+![Designing side quests? Study these 7 games (and some Chris Avellone pointers)|522](https://images.openai.com/static-rsc-4/UZN6Zbj0n71uCa2O67dwGxCIFs878TK8zizXDkfYoL8BiCwUCvOlBrNgt6UTdaTmThkVsSG5mcpabKCSlsvWf_9ZMW_q4jINB2xOKA_nVyRrokSySzwSDa-IgXu9kAf6StUNTD62j9BPXnBh-9wvsCDxYdJ-6uWpyk6sI1YqI0Y?purpose=inline)
+
+Si los jugadores atacan o intentan impedir físicamente la detención, los inspectores activan sus protocolos de seguridad.
+
+> «OBSTRUCCIÓN DE PROCEDIMIENTO ADMINISTRATIVO».
+> «RESISTENCIA A LA AUTORIDAD».
+> «ACTIVANDO MEDIDAS CORRECTIVAS».
+> «EL ORGANISMO NO SE RESPONSABILIZA POR LESIONES DERIVADAS DEL INCUMPLIMIENTO NORMATIVO».
+
+### Inspector S.I.G.A. — Unidad de fiscalización
+![[Pasted image 20261016155118.png]]
+
+![[Pasted image 20261016155127.png]]
+
+### Desarrollo táctico
+
+- Enemigos: 2 inspectores comunes y 1 inspector jefe.
+- Terreno: puestos comerciales, cajones, barricadas y civiles.
+- Cobertura: los puestos proporcionan media cobertura (+2 CA).
+- Objetivo de los robots: detener a los infractores, no exterminar indiscriminadamente a los habitantes.
+
+Los robots intentan inmovilizar a los PJ que interfieran y utilizar sus armas láser contra quienes representen una amenaza.
+
+Los civiles huyen o se esconden.
+
+No utilizaría civiles como escudos humanos obligatorios ni complicaría demasiado la iniciativa.
+
+Balance: para cuatro PJ de nivel 5, este debería ser un encuentro moderado, posiblemente fácil si llegan con todos sus recursos. Las estadísticas son caseras y sus CR son aproximados.
+
+## Consecuencias del incidente
+
+- Si salvan a Pochito
+ Los habitantes comienzan a confiar en ellos. Osvaldo, el Contador, les ofrece información sobre los tres chatarreros desaparecidos y la Delegación Regional.
+También pueden recibir suministros como agradecimiento.
+
+- Si destruyen a los inspectores
+Nueva Arroyito celebra la victoria, pero S.I.G.A. registra la destrucción de sus unidades.
+Durante el Acto III, los personajes podrían aparecer identificados como individuos peligrosos en las terminales de seguridad.
+
+ - Si resuelven el conflicto mediante diplomacia
+El inspector jefe registra una suspensión provisional del procedimiento.
+Los PJ obtienen un número de expediente que podrían utilizar para acceder a determinadas áreas de la Delegación.
+
+- Si no intervienen
+Los robots se llevan a Pochito.
+Más adelante pueden encontrarlo detenido junto a los chatarreros desaparecidos.
+Esto no bloquea la misión principal, pero les muestra que sus decisiones tienen consecuencias.
+
+
+## Cierre del incidente
+
+Independientemente de cómo termine, el incidente permite revelar que S.I.G.A. está ampliando sus operaciones.
+
+Si los personajes examinan los restos de un robot, acceden a su memoria o consiguen interrogarlo, pueden obtener una orden reciente:
+
+> S.I.G.A. — DIRECTIVA 341-R
+> 
+> ESTADO: ACTIVA
+> 
+> OBJETIVO: REGULARIZACIÓN DE POBLACIÓN NO REGISTRADA.
+> 
+> PRIORIDAD: ALTA.
+> 
+> INSTALACIÓN VINCULADA: VAULT 341.
+> 
+> PLAZO DE CUMPLIMIENTO: 24 HORAS.
+> 
+> OBSERVACIÓN: EL PROTOCOLO NO ADMITE EXCEPCIONES.
+
+Esta pista conecta directamente los problemas de Nueva Arroyito con el Vault.
+
+Los jugadores todavía no conocen la verdadera naturaleza del experimento, pero ahora saben que la reactivación de la Delegación y la amenaza contra su hogar están relacionadas.
+
+
+### Nota para dirigir
+
+Este encuentro me gusta especialmente porque pone a los jugadores frente a una decisión muy Fallout: intervenir para ayudar a un desconocido puede traerles problemas con una autoridad que controla el lugar al que necesitan entrar.
+
+Y, a diferencia de las mutarachas o los saqueadores, estos robots no son simplemente enemigos: son representantes del sistema que los PJ necesitan utilizar para salvar el Vault.
+
+Eso hace que resolver el incidente a tiros sea divertido, pero potencialmente inconveniente. Y si algo sabemos de D&D, es que «potencialmente inconveniente» jamás detuvo a una party.
