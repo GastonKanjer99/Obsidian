@@ -192,29 +192,125 @@ Dentro quedaron atrapados varios ciudadanos que sobrevivieron inicialmente a la 
 ### Narración
 
 > Un cartel oxidado anuncia:
-> 
 > SALA DE ESPERA COMPLEMENTARIA
-> 
 > TIEMPO MÁXIMO DE PERMANENCIA: 30 MINUTOS
-> 
 > La puerta se abre con un chirrido.
-> 
 > El olor a humedad y descomposición invade el pasillo.
-> 
 > Varias figuras humanas permanecen sentadas en las sillas.
-> 
 > Sus cuerpos están deformados y su piel parece desprenderse de los huesos.
-> 
 > Una voz electrónica anuncia:
-> 
 > «TURNO 184».
-> 
 > Una de las figuras levanta lentamente la cabeza.
-> 
 > «TURNO 185».
-> 
 > Otra comienza a moverse.
-> 
 > «TURNO 186».
-> 
 > Todas se ponen de pie.
+
+![[Pasted image 20261016162806.png]]
+
+### Mecánica ambiental: El sistema de turnos
+
+Cada ronda, al comienzo del turno del ghoul hinchado, el altavoz anuncia un número.
+
+Los ghouls reaccionan instintivamente al sonido.
+
+Un personaje puede utilizar una acción para manipular la terminal de turnos con Inteligencia (Investigación) CD 13.
+
+Si tiene éxito, los ghouls quedan distraídos hasta el comienzo de la siguiente ronda: su velocidad se reduce a 0 y no pueden realizar reacciones.
+
+La terminal también puede destruirse, eliminando esta mecánica.
+
+### Resolución alternativa
+
+Los personajes pueden cerrar la sala sin entrar o utilizar una distracción sonora para atraer a los ghouls hacia una zona segura.
+
+No es obligatorio combatirlos.
+
+# D. Detención preventiva — Los desaparecidos
+
+![PC gaming’s toughest prisons | PC Gamer](https://images.openai.com/static-rsc-4/nkJ8DMmyl4NqCNRYAaLIjcrloTcRTwxBxw5Zt6a7c6XUjvd3hhSygiHZVqF9tN72_kk8Vzz8esQxBxqoTXJ9Xnba8Jm-Qk8CbqZxobsLuJAGA_tO2AT9HHRdCZ1qAT6XWG3MkBO2iI8Ma-hM1daxeGInl5fUTi2EH8nXsCFdPnE?purpose=inline)
+
+[pcgamer.com](https://www.pcgamer.com/pc-gamings-toughest-prisons/?utm_source=chatgpt.com)
+
+En el subsuelo del edificio, varias celdas están ocupadas por personas detenidas.
+
+Entre ellas se encuentran los tres chatarreros desaparecidos de Nueva Arroyito.
+
+### Narración
+
+> Descienden por una escalera metálica hacia un pasillo iluminado por luces rojas.
+> 
+> Varias puertas blindadas se alinean a ambos lados.
+> 
+> Detrás de una de ellas escuchan una voz:
+> 
+> «¡EH! ¡USTEDES! ¡SÍ, LOS DE AFUERA!».
+> 
+> Una mujer golpea la puerta.
+> 
+> «¡SÁQUENNOS DE ACÁ! ¡NOS METIERON PRESOS POR NO TENER CERTIFICADO DE NACIMIENTO!».
+> 
+> Desde otra celda, una voz masculina agrega:
+> 
+> «¡YO TENGO CERTIFICADO! ¡PERO DICEN QUE ESTÁ VENCIDO!».
+
+### Los prisioneros
+
+Marta «Chispa» Gómez: mecánica experimentada, desconfiada y sarcástica.
+
+El Flaco Rulo: explorador que se metió en la Delegación buscando tecnología.
+
+Pochi: aprendiz de chatarrero, bastante asustado.
+
+Si Pochito fue detenido durante el Acto II, también se encuentra aquí, en una celda separada.
+
+### Cómo liberarlos
+
+|Método|Resolución|
+|---|---|
+|Tarjeta administrativa nivel 2|Abre el panel de control|
+|Hackear las cerraduras|Herramientas de manitas CD 15|
+|Forzar una celda|Fuerza (Atletismo) CD 18|
+|Engañar al sistema|Engaño CD 15 con una autorización creíble|
+
+Si los jugadores liberan a los prisioneros, Marta les ofrece información.
+
+### Información de Marta
+
+Antes de ser detenida, consiguió acceder parcialmente al sistema.
+
+Descubrió que S.I.G.A. tiene un núcleo central protegido por robots militares.
+
+También encontró registros de Vault-Tec que mencionan una «fase final de evaluación».
+
+Recompensa: si los PJ rescatan a los tres chatarreros, Osvaldo cumplirá la recompensa prometida cuando regresen a Nueva Arroyito.
+
+Marta puede acompañarlos hasta las oficinas superiores, pero no participará directamente en los combates.
+
+# E. Oficinas superiores — El funcionario eterno
+
+![Abri 95 Fallout 4 : Comment y accéder et que faut-il y faire ? - jeuxvideo.com](https://images.openai.com/static-rsc-4/YIgO5hlxbW2txoEGR5JjsSLwIPMwkhsXJRbqh3iXBzIYl4e4mYVZKd1QtQ_eF7vMZh0CCOPNnzfii0bbpKRNjEb-NW6Ihy6ulYufoF5JQRXS1bgTxXx_p7Y6ZvaDmgmjEOWvIojG0KjbM2yj0sfqO3Iom13NeJSm032HJOhbBEQ?purpose=inline)
+
+[jeuxvideo.com](https://www.jeuxvideo.com/news/1878936/abri-95-fallout-4-comment-y-acceder-et-que-faut-il-y-faire.htm?utm_source=chatgpt.com)
+
+Esta zona contiene las antiguas oficinas de los funcionarios responsables de la Delegación.
+
+En la oficina principal se encuentra el cadáver momificado del último director administrativo.
+
+Sigue sentado frente a su escritorio.
+
+### Narración
+
+> La puerta se abre lentamente.
+> 
+> Frente a ustedes hay una oficina sorprendentemente elegante.
+> 
+> Un escritorio de madera ocupa el centro de la habitación.
+> 
+> Detrás, sentado en una silla de cuero, descansa un esqueleto vestido con traje y corbata.
+> 
+> Sobre su escritorio hay una taza de café petrificado y una placa:
+> 
+> DIRECTOR REGIONAL — LIC. ERNESTO GUTIÉRREZ
+> 
+> Una terminal continúa
