@@ -147,12 +147,11 @@ Para los hackeos, usá Inteligencia con herramientas apropiadas, como herramient
 Tres reglas de dirección
 
 1. No fuerces encuentros: el combate es una posibilidad, no siempre la única solución.
-    
 2. La burocracia es el chiste, no una mecánica que haga perder tiempo real.
-    
 3. Las consecuencias importan: si ayudan a alguien, consiguen aliados; si destruyen robots, S.I.G.A. reacciona.
-    
+4.  S.I.G.A: SISTEMA INTEGRAL DE GESTIÓN ADMINISTRATIVA
 
 La verdad que solamente sabe el DM
 
 Vault-Tec creó el Vault 341 para estudiar la obediencia institucional. La misión del certificado es una prueba. S.I.G.A. puede apagar el refugio de verdad, pero también puede cancelar la orden. Los PJ pueden salvar a su gente obedeciendo, engañando al sistema o destruyendo su control.
+
