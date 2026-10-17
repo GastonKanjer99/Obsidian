@@ -251,16 +251,6 @@ El Protectron anuncia:
 ![[Pasted image 20261016144547.png]]
 
 
-## 9 m
-
-Bestia mutada pequeña · FUE 8 (−1), DES 14 (+2), CON 12 (+1), INT 1 (−5), SAB 8 (−1), CAR 2 (−4)
-
-Mordida contaminada. Ataque cuerpo a cuerpo: +4 al impacto, alcance 1,5 m, un objetivo. Daño: 1d6+2 perforante.
-
-Plaga radiactiva (1/combate). Cuando una mutaracha muere, libera una pequeña nube tóxica. Las criaturas a 1,5 m realizan una salvación de Constitución CD 11 o reciben 1d4 de daño necrótico.
-
-Estas son estadísticas caseras, pensadas para un combate introductorio rápido, no una criatura oficial de D&D.
-
 ### Desarrollo del combate
 
 - Enemigos: 6 mutarachas.
